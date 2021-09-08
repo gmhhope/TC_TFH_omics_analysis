@@ -1,6 +1,7 @@
 # SupFigure 1F
 
 ## directory structure
+```
 ├── Heatmap.Rproj
 ├── README.md
 ├── input
@@ -13,7 +14,7 @@
 │   └── v2_Edited_Heatmap_quantiled_either_Nano_Rseq_or_Nano_mArray_padj0.1.pdf
 └── scripts
     └── R-heatmap_on_all_genes_quantiled_coloring_annot_Nanostring_RNAseq_mArray.R
-
+```
 
 ## input
 - The nanostring data is from Choi et al (Nature Communications 2018).

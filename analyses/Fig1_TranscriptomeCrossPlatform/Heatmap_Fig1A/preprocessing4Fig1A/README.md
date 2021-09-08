@@ -1,6 +1,7 @@
 # preoprocessing for Supplementary Figure 1A
 
 ## directory structure
+```
 ├── scripts
 │   ├── merge_RNAseq_mArray_result_corrected.html
 │   ├── merge_RNAseq_mArray_result.ipynb
@@ -29,7 +30,7 @@
 │       ├── result_Tfh_B6vsTC_r2.csv
 │       └── README.md
 └── README.md
-
+```
 
 
 

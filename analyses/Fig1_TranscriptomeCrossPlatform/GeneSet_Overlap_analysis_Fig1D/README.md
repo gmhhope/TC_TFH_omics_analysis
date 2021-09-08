@@ -2,6 +2,7 @@
 - This is the project file running R dotplot for Gene overlap of FC 1.5 padj < 0.05 in both TC vs B6 (mArray & RNA-seq)
 
 ## Folder structure
+```
 ├── GSEAoverlap_dot_plot.Rproj
 ├── README.md
 ├── input
@@ -12,7 +13,7 @@
 │   └── dotplot_GSEAoverlap_v3.pdf
 └── scripts
     └── GSEAoverlap_dot_plot_R.R
-
+```
 
 
 ## input 

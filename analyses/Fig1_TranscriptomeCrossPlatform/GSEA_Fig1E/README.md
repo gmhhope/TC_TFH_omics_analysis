@@ -1,6 +1,7 @@
 # GSEA bubble plot
 
 ## folder structure
+```
 ├── README.md
 ├── input
 │   ├── README.md
@@ -13,6 +14,7 @@
 └── scripts
     ├── Bubble_plots4GSEA20191211_10-05_2grps.R
     └── GSEA_clean_up4meta_analysis.ipynb
+```
 
 ## workflow
 - `GSEA_clean_up4meta_analysis.ipynb` takes `gset_report_merged_Sp_Tfh_2grp.csv` & `gset_report_merged_microarray_Tfh_2grp.csv`. It results in `meta_df4bubble_mod.csv` & `meta_df4bubble_diff_filtering_select.csv`.
