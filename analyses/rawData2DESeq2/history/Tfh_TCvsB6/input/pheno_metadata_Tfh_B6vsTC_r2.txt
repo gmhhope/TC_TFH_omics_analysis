@@ -1,8 +1,0 @@
-Group	SampleID
-B6	B6-1-Tfh
-B6	B6-2-Tfh
-B6	B6-3-Tfh
-B6	B6-4-Tfh
-TC	TC1-Tfh
-TC	TC2-Tfh
-TC	TC4-Tfh
