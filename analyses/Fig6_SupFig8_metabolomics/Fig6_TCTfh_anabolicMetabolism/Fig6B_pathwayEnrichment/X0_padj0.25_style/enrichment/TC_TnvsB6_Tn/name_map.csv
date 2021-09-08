@@ -1,0 +1,5 @@
+"Query","Match","HMDB","PubChem","KEGG","SMILES","Comment"
+"C00042","Succinic acid","HMDB0000254","1110","C00042","C(CC(=O)O)C(=O)O","1"
+"C02067","Pseudouridine","HMDB0000767","15047","C02067","C1=C(C(=O)NC(=O)N1)[C@H]2[C@@H]([C@@H]([C@H](O2)CO)O)O","1"
+"C00802","Oxalureate","METPA0081",NA,"C00802",NA,"1"
+"C00130","Inosinic acid","HMDB0000175","8582","C00130","C1=NC(=O)C2=C(N1)N(C=N2)[C@H]3[C@@H]([C@@H]([C@H](O3)COP(=O)(O)O)O)O","1"

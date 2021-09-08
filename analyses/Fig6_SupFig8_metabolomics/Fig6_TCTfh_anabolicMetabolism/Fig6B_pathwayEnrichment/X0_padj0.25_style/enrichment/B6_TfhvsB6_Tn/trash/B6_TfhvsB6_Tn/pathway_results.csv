@@ -1,0 +1,58 @@
+"","Total","Expected","Hits","Raw p","-log(p)","Holm adjust","FDR","Impact"
+"Phosphatidylethanolamine Biosynthesis",13,0.21903,3,0.0010258,6.8823,0.10155,0.09222,0.5
+"Phosphatidylcholine Biosynthesis",18,0.30327,3,0.002777,5.8864,0.27215,0.09222,0.21951
+"Purine Metabolism",63,1.0614,5,0.0027945,5.8801,0.27215,0.09222,0.11484
+"Cardiolipin Biosynthesis",11,0.18533,2,0.013448,4.3089,1,0.33283,0.051948
+"Aspartate Metabolism",34,0.57284,3,0.017214,4.062,1,0.34084,0
+"Lactose Synthesis",14,0.23588,2,0.021597,3.8352,1,0.35636,0.22059
+"Betaine Metabolism",18,0.30327,2,0.034901,3.3552,1,0.47796,0
+"Pantothenate and CoA Biosynthesis",19,0.32012,2,0.038623,3.2539,1,0.47796,0
+"Glycine and Serine Metabolism",50,0.84242,3,0.047662,3.0436,1,0.52053,0
+"Urea Cycle",23,0.38751,2,0.054931,2.9017,1,0.52053,0
+"Pyrimidine Metabolism",54,0.90981,3,0.057837,2.8501,1,0.52053,0.092061
+"Phenylalanine and Tyrosine Metabolism",25,0.42121,2,0.063864,2.751,1,0.52172,0
+"Citric Acid Cycle",26,0.43806,2,0.068509,2.6808,1,0.52172,0
+"Selenoamino Acid Metabolism",28,0.47175,2,0.078128,2.5494,1,0.55248,0
+"Biotin Metabolism",7,0.11794,1,0.11246,2.1852,1,0.66444,0
+"Malate-Aspartate Shuttle",7,0.11794,1,0.11246,2.1852,1,0.66444,0.28571
+"Propanoate Metabolism",36,0.60654,2,0.12039,2.117,1,0.66444,0.0090448
+"Pyruvate Metabolism",37,0.62339,2,0.12603,2.0712,1,0.66444,0.05802
+"Phenylacetate Metabolism",8,0.13479,1,0.12752,2.0595,1,0.66444,0
+"Methionine Metabolism",39,0.65709,2,0.13752,1.984,1,0.6807,0
+"Arginine and Proline Metabolism",48,0.80872,2,0.1918,1.6513,1,0.71884,0
+"Warburg Effect",49,0.82557,2,0.19804,1.6193,1,0.71884,0
+"Catecholamine Biosynthesis",14,0.23588,1,0.21294,1.5468,1,0.71884,0
+"Alanine Metabolism",14,0.23588,1,0.21294,1.5468,1,0.71884,0
+"Riboflavin Metabolism",14,0.23588,1,0.21294,1.5468,1,0.71884,0
+"Spermidine and Spermine Biosynthesis",14,0.23588,1,0.21294,1.5468,1,0.71884,0
+"Phosphatidylinositol Phosphate Metabolism",14,0.23588,1,0.21294,1.5468,1,0.71884,0
+"Mitochondrial Electron Transport Chain",15,0.25273,1,0.22638,1.4855,1,0.71884,0
+"Ethanol Degradation",15,0.25273,1,0.22638,1.4855,1,0.71884,0
+"Tyrosine Metabolism",55,0.92666,2,0.236,1.4439,1,0.71884,0
+"Nucleotide Sugars Metabolism",16,0.26957,1,0.23961,1.4287,1,0.71884,0
+"Butyrate Metabolism",16,0.26957,1,0.23961,1.4287,1,0.71884,0
+"Plasmalogen Synthesis",16,0.26957,1,0.23961,1.4287,1,0.71884,0
+"Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids",17,0.28642,1,0.25263,1.3758,1,0.72437,0
+"Ubiquinone Biosynthesis",18,0.30327,1,0.26544,1.3264,1,0.72437,0
+"Transfer of Acetyl Groups into Mitochondria",18,0.30327,1,0.26544,1.3264,1,0.72437,0.30905
+"Sulfate/Sulfite Metabolism",19,0.32012,1,0.27804,1.28,1,0.72437,0
+"Phytanic Acid Peroxisomal Oxidation",19,0.32012,1,0.27804,1.28,1,0.72437,0
+"Oxidation of Branched Chain Fatty Acids",22,0.37066,1,0.31463,1.1563,1,0.77872,0
+"Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids",22,0.37066,1,0.31463,1.1563,1,0.77872,0
+"Cysteine Metabolism",24,0.40436,1,0.33805,1.0846,1,0.79684,0
+"Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids",24,0.40436,1,0.33805,1.0846,1,0.79684,0
+"Ammonia Recycling",25,0.42121,1,0.34948,1.0513,1,0.80461,0
+"Starch and Sucrose Metabolism",26,0.43806,1,0.36072,1.0197,1,0.81161,0
+"Inositol Metabolism",28,0.47175,1,0.38265,0.96064,1,0.82352,0
+"Fructose and Mannose Degradation",28,0.47175,1,0.38265,0.96064,1,0.82352,0
+"Gluconeogenesis",30,0.50545,1,0.40387,0.90667,1,0.83689,0.017794
+"Galactose Metabolism",31,0.5223,1,0.41422,0.88136,1,0.83689,0
+"Amino Sugar Metabolism",31,0.5223,1,0.41422,0.88136,1,0.83689,0
+"Nicotinate and Nicotinamide Metabolism",32,0.53915,1,0.4244,0.85707,1,0.84032,0.11335
+"Histidine Metabolism",35,0.58969,1,0.45396,0.78975,1,0.88121,0
+"Sphingolipid Metabolism",36,0.60654,1,0.46349,0.76897,1,0.88241,0
+"Fatty Acid Metabolism",40,0.67393,1,0.50007,0.69301,1,0.93409,0
+"Steroid Biosynthesis",43,0.72448,1,0.52595,0.64255,1,0.96424,0
+"Glutamate Metabolism",45,0.75818,1,0.54249,0.61158,1,0.97649,0.063824
+"Tryptophan Metabolism",55,0.92666,1,0.61739,0.48226,1,1,0
+"Bile Acid Biosynthesis",59,0.99405,1,0.64398,0.44009,1,1,0.012339

@@ -1,0 +1,51 @@
+"","total","expected","hits","Raw p","Holm p","FDR"
+"Purine Metabolism",74,1.3,7,0.00013,0.0127,0.0127
+"Arginine and Proline Metabolism",53,0.932,5,0.00157,0.153,0.0579
+"Ammonia Recycling",32,0.562,4,0.00177,0.17,0.0579
+"Methionine Metabolism",43,0.756,4,0.00538,0.511,0.132
+"Glutamate Metabolism",49,0.861,4,0.00863,0.811,0.169
+"Malate-Aspartate Shuttle",10,0.176,2,0.0121,1,0.197
+"Glycine and Serine Metabolism",59,1.04,4,0.0166,1,0.213
+"Phosphatidylethanolamine Biosynthesis",12,0.211,2,0.0174,1,0.213
+"Alanine Metabolism",17,0.299,2,0.034,1,0.37
+"Glutathione Metabolism",21,0.369,2,0.0503,1,0.488
+"Carnitine Synthesis",22,0.387,2,0.0548,1,0.488
+"Selenoamino Acid Metabolism",28,0.492,2,0.0842,1,0.675
+"Urea Cycle",29,0.51,2,0.0896,1,0.675
+"Beta-Alanine Metabolism",34,0.598,2,0.118,1,0.806
+"Aspartate Metabolism",35,0.615,2,0.123,1,0.806
+"Galactose Metabolism",38,0.668,2,0.141,1,0.837
+"Homocysteine Degradation",9,0.158,1,0.148,1,0.837
+"Sphingolipid Metabolism",40,0.703,2,0.154,1,0.837
+"Ketone Body Metabolism",13,0.229,1,0.207,1,1
+"Glucose-Alanine Cycle",13,0.229,1,0.207,1,1
+"Phosphatidylcholine Biosynthesis",14,0.246,1,0.221,1,1
+"Phosphatidylinositol Phosphate Metabolism",17,0.299,1,0.262,1,1
+"Warburg Effect",58,1.02,2,0.271,1,1
+"Spermidine and Spermine Biosynthesis",18,0.316,1,0.275,1,1
+"Valine, Leucine and Isoleucine Degradation",60,1.05,2,0.285,1,1
+"Butyrate Metabolism",19,0.334,1,0.288,1,1
+"Mitochondrial Electron Transport Chain",19,0.334,1,0.288,1,1
+"Threonine and 2-Oxobutanoate Degradation",20,0.352,1,0.301,1,1
+"Betaine Metabolism",21,0.369,1,0.313,1,1
+"Bile Acid Biosynthesis",65,1.14,2,0.318,1,1
+"Tyrosine Metabolism",72,1.27,2,0.365,1,1
+"Cysteine Metabolism",26,0.457,1,0.373,1,1
+"Oxidation of Branched Chain Fatty Acids",26,0.457,1,0.373,1,1
+"Phytanic Acid Peroxisomal Oxidation",26,0.457,1,0.373,1,1
+"Inositol Phosphate Metabolism",26,0.457,1,0.373,1,1
+"Phenylalanine and Tyrosine Metabolism",28,0.492,1,0.395,1,1
+"Folate Metabolism",29,0.51,1,0.406,1,1
+"Lysine Degradation",30,0.527,1,0.417,1,1
+"Citric Acid Cycle",32,0.562,1,0.438,1,1
+"Fructose and Mannose Degradation",32,0.562,1,0.438,1,1
+"Inositol Metabolism",33,0.58,1,0.448,1,1
+"Amino Sugar Metabolism",33,0.58,1,0.448,1,1
+"Nicotinate and Nicotinamide Metabolism",37,0.65,1,0.487,1,1
+"Porphyrin Metabolism",40,0.703,1,0.515,1,1
+"Propanoate Metabolism",42,0.738,1,0.532,1,1
+"Histidine Metabolism",43,0.756,1,0.541,1,1
+"Steroidogenesis",43,0.756,1,0.541,1,1
+"Steroid Biosynthesis",48,0.844,1,0.582,1,1
+"Tryptophan Metabolism",60,1.05,1,0.666,1,1
+"Arachidonic Acid Metabolism",69,1.21,1,0.718,1,1

@@ -1,0 +1,45 @@
+"","total","expected","hits","Raw p","Holm p","FDR"
+"Purine Metabolism",74,1.66,7,0.000744,0.073,0.0368
+"Aspartate Metabolism",35,0.786,5,0.000752,0.073,0.0368
+"Urea Cycle",29,0.651,4,0.00317,0.304,0.104
+"Propanoate Metabolism",42,0.943,4,0.0123,1,0.301
+"Malate-Aspartate Shuttle",10,0.225,2,0.0195,1,0.382
+"Arginine and Proline Metabolism",53,1.19,4,0.0272,1,0.445
+"Ammonia Recycling",32,0.719,3,0.0321,1,0.449
+"Beta-Alanine Metabolism",34,0.764,3,0.0376,1,0.461
+"Alanine Metabolism",17,0.382,2,0.0535,1,0.583
+"Methionine Metabolism",43,0.966,3,0.068,1,0.606
+"Histidine Metabolism",43,0.966,3,0.068,1,0.606
+"Glutamate Metabolism",49,1.1,3,0.093,1,0.76
+"Cysteine Metabolism",26,0.584,2,0.113,1,0.832
+"Phenylalanine and Tyrosine Metabolism",28,0.629,2,0.128,1,0.832
+"Selenoamino Acid Metabolism",28,0.629,2,0.128,1,0.832
+"Pentose Phosphate Pathway",29,0.651,2,0.136,1,0.832
+"Valine, Leucine and Isoleucine Degradation",60,1.35,3,0.147,1,0.849
+"Thiamine Metabolism",9,0.202,1,0.186,1,0.957
+"Phenylacetate Metabolism",9,0.202,1,0.186,1,0.957
+"Nicotinate and Nicotinamide Metabolism",37,0.831,2,0.2,1,0.982
+"Glucose-Alanine Cycle",13,0.292,1,0.257,1,1
+"Spermidine and Spermine Biosynthesis",18,0.404,1,0.338,1,1
+"Butyrate Metabolism",19,0.427,1,0.353,1,1
+"Ethanol Degradation",19,0.427,1,0.353,1,1
+"Riboflavin Metabolism",20,0.449,1,0.368,1,1
+"Warburg Effect",58,1.3,2,0.378,1,1
+"Glutathione Metabolism",21,0.472,1,0.382,1,1
+"Pantothenate and CoA Biosynthesis",21,0.472,1,0.382,1,1
+"Betaine Metabolism",21,0.472,1,0.382,1,1
+"Glycine and Serine Metabolism",59,1.33,2,0.387,1,1
+"Pyrimidine Metabolism",59,1.33,2,0.387,1,1
+"Glycerolipid Metabolism",25,0.562,1,0.437,1,1
+"Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids",27,0.606,1,0.463,1,1
+"Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids",27,0.606,1,0.463,1,1
+"Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids",28,0.629,1,0.475,1,1
+"Phospholipid Biosynthesis",29,0.651,1,0.487,1,1
+"Folate Metabolism",29,0.651,1,0.487,1,1
+"Tyrosine Metabolism",72,1.62,2,0.49,1,1
+"Lysine Degradation",30,0.674,1,0.499,1,1
+"Amino Sugar Metabolism",33,0.741,1,0.533,1,1
+"Fatty acid Metabolism",43,0.966,1,0.631,1,1
+"Pyruvate Metabolism",48,1.08,1,0.673,1,1
+"Tryptophan Metabolism",60,1.35,1,0.754,1,1
+"Arachidonic Acid Metabolism",69,1.55,1,0.803,1,1

@@ -1,0 +1,57 @@
+"","Total","Expected","Hits","Raw p","-log(p)","Holm adjust","FDR","Impact"
+"Phosphatidylethanolamine Biosynthesis",13,0.2199,3,0.0010377,6.8708,0.10273,0.093847,0.5
+"Phosphatidylcholine Biosynthesis",18,0.30448,3,0.0028086,5.8751,0.27524,0.093847,0.21951
+"Purine Metabolism",63,1.0657,5,0.0028438,5.8626,0.27585,0.093847,0.11484
+"Phenylalanine and Tyrosine Metabolism",25,0.42289,3,0.007353,4.9126,0.70589,0.18199,0
+"Cardiolipin Biosynthesis",11,0.18607,2,0.01355,4.3013,1,0.2683,0.051948
+"Aspartate Metabolism",34,0.57512,3,0.017398,4.0514,1,0.28707,0
+"Lactose Synthesis",14,0.23682,2,0.021759,3.8277,1,0.30774,0.22059
+"Betaine Metabolism",18,0.30448,2,0.035157,3.3479,1,0.42796,0
+"Pantothenate and CoA Biosynthesis",19,0.32139,2,0.038905,3.2466,1,0.42796,0
+"Glycine and Serine Metabolism",50,0.84577,3,0.048139,3.0337,1,0.47657,0
+"Urea Cycle",23,0.38905,2,0.055324,2.8946,1,0.48184,0
+"Pyrimidine Metabolism",54,0.91343,3,0.058405,2.8403,1,0.48184,0.092061
+"Citric Acid Cycle",25,0.42289,2,0.064316,2.744,1,0.48979,0
+"Selenoamino Acid Metabolism",28,0.47363,2,0.078671,2.5425,1,0.55632,0
+"Pyruvate Metabolism",30,0.50746,2,0.088766,2.4218,1,0.58586,0.056034
+"Biotin Metabolism",7,0.11841,1,0.11289,2.1814,1,0.6574,0
+"Malate-Aspartate Shuttle",7,0.11841,1,0.11289,2.1814,1,0.6574,0.28571
+"Propanoate Metabolism",36,0.60896,2,0.12119,2.1104,1,0.66655,0.0090448
+"Phenylacetate Metabolism",8,0.13532,1,0.128,2.0557,1,0.66693,0
+"Methionine Metabolism",39,0.6597,2,0.13841,1.9775,1,0.68514,0
+"Arginine and Proline Metabolism",48,0.81194,2,0.19299,1.6451,1,0.74391,0
+"Alanine Metabolism",14,0.23682,1,0.2137,1.5432,1,0.74391,0
+"Catecholamine Biosynthesis",14,0.23682,1,0.2137,1.5432,1,0.74391,0
+"Phosphatidylinositol Phosphate Metabolism",14,0.23682,1,0.2137,1.5432,1,0.74391,0
+"Riboflavin Metabolism",14,0.23682,1,0.2137,1.5432,1,0.74391,0
+"Spermidine and Spermine Biosynthesis",14,0.23682,1,0.2137,1.5432,1,0.74391,0
+"Ethanol Degradation",15,0.25373,1,0.22719,1.482,1,0.74391,0
+"Mitochondrial Electron Transport Chain",15,0.25373,1,0.22719,1.482,1,0.74391,0
+"Tyrosine Metabolism",55,0.93035,2,0.2374,1.438,1,0.74391,0
+"Butyrate Metabolism",16,0.27065,1,0.24046,1.4252,1,0.74391,0
+"Nucleotide Sugars Metabolism",16,0.27065,1,0.24046,1.4252,1,0.74391,0
+"Plasmalogen Synthesis",16,0.27065,1,0.24046,1.4252,1,0.74391,0
+"Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids",17,0.28756,1,0.25351,1.3723,1,0.7465,0
+"Ubiquinone Biosynthesis",18,0.30448,1,0.26636,1.3229,1,0.7465,0
+"Transfer of Acetyl Groups into Mitochondria",18,0.30448,1,0.26636,1.3229,1,0.7465,0.30905
+"Phytanic Acid Peroxisomal Oxidation",19,0.32139,1,0.27899,1.2766,1,0.7465,0
+"Sulfate/Sulfite Metabolism",19,0.32139,1,0.27899,1.2766,1,0.7465,0
+"Oxidation of Branched Chain Fatty Acids",21,0.35522,1,0.30365,1.1919,1,0.7911,0
+"Mitochondrial Beta-Oxidation of Medium Chain Saturated Fatty Acids",22,0.37214,1,0.31568,1.153,1,0.80135,0
+"Cysteine Metabolism",24,0.40597,1,0.33916,1.0813,1,0.81895,0
+"Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids",24,0.40597,1,0.33916,1.0813,1,0.81895,0
+"Ammonia Recycling",25,0.42289,1,0.35061,1.0481,1,0.82644,0
+"Starch and Sucrose Metabolism",26,0.4398,1,0.36188,1.0165,1,0.83316,0
+"Fructose and Mannose Degradation",28,0.47363,1,0.38386,0.95748,1,0.84449,0
+"Inositol Metabolism",28,0.47363,1,0.38386,0.95748,1,0.84449,0
+"Gluconeogenesis",30,0.50746,1,0.40512,0.90356,1,0.85696,0.0085202
+"Amino Sugar Metabolism",31,0.52438,1,0.4155,0.87828,1,0.85696,0
+"Galactose Metabolism",31,0.52438,1,0.4155,0.87828,1,0.85696,0
+"Nicotinate and Nicotinamide Metabolism",32,0.54129,1,0.4257,0.85403,1,0.86008,0.11335
+"Histidine Metabolism",35,0.59204,1,0.45531,0.78678,1,0.90151,0
+"Sphingolipid Metabolism",36,0.60896,1,0.46485,0.76603,1,0.90236,0
+"Fatty Acid Metabolism",40,0.67662,1,0.50149,0.69018,1,0.95475,0
+"Steroid Biosynthesis",43,0.72736,1,0.5274,0.6398,1,0.98514,0
+"Glutamate Metabolism",45,0.76119,1,0.54396,0.60888,1,0.99726,0.063824
+"Tryptophan Metabolism",55,0.93035,1,0.6189,0.47981,1,1,0
+"Bile Acid Biosynthesis",60,1.0149,1,0.65187,0.42791,1,1,0.021898

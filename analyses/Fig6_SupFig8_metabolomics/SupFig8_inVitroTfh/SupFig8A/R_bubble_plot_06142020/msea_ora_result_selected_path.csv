@@ -1,0 +1,45 @@
+,total,expected,hits,Raw p,Holm p,FDR,group
+Beta-Alanine Metabolism,34,0.564,2,0.107,1,1,Tfh
+Aspartate Metabolism,35,0.581,2,0.112,1,1,Tfh
+Purine Metabolism,74,1.23,3,0.119,1,1,Tfh
+Malate-Aspartate Shuttle,10,0.166,1,0.155,1,1,Tfh
+Phosphatidylethanolamine Biosynthesis,12,0.199,1,0.183,1,1,Tfh
+Thyroid hormone synthesis,13,0.216,1,0.197,1,1,Tfh
+Phosphatidylcholine Biosynthesis,14,0.232,1,0.21,1,1,Tfh
+Phosphatidylinositol Phosphate Metabolism,17,0.282,1,0.249,1,1,Tfh
+Inositol Phosphate Metabolism,26,0.432,1,0.356,1,1,Tfh
+Plasmalogen Synthesis,26,0.432,1,0.356,1,1,Tfh
+Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids,28,0.465,1,0.378,1,1,Tfh
+Urea Cycle,29,0.481,1,0.389,1,1,Tfh
+Lysine Degradation,30,0.498,1,0.399,1,1,Tfh
+Ammonia Recycling,32,0.531,1,0.42,1,1,Tfh
+Inositol Metabolism,33,0.548,1,0.43,1,1,Tfh
+Retinol Metabolism,37,0.614,1,0.468,1,1,Tfh
+Galactose Metabolism,38,0.631,1,0.477,1,1,Tfh
+Glutamate Metabolism,49,0.813,1,0.568,1,1,Tfh
+Arginine and Proline Metabolism,53,0.88,1,0.598,1,1,Tfh
+Pyrimidine Metabolism,59,0.979,1,0.638,1,1,Tfh
+Tyrosine Metabolism,72,1.2,1,0.713,1,1,Tfh
+Methionine Metabolism,43,1.68,7,0.000922,0.0903,0.0903,Tact
+Oxidation of Branched Chain Fatty Acids,26,1.02,5,0.00253,0.246,0.124,Tact
+Carnitine Synthesis,22,0.859,4,0.00878,0.843,0.287,Tact
+Arginine and Proline Metabolism,53,2.07,6,0.0142,1,0.348,Tact
+Citric Acid Cycle,32,1.25,4,0.0325,1,0.552,Tact
+Mitochondrial Electron Transport Chain,19,0.742,3,0.0347,1,0.552,Tact
+Aspartate Metabolism,35,1.37,4,0.0435,1,0.552,Tact
+Homocysteine Degradation,9,0.352,2,0.045,1,0.552,Tact
+Warburg Effect,58,2.27,5,0.07,1,0.683,Tact
+Glycine and Serine Metabolism,59,2.3,5,0.0744,1,0.683,Tact
+Phosphatidylethanolamine Biosynthesis,12,0.469,2,0.0767,1,0.683,Tact
+Phospholipid Biosynthesis,29,1.13,3,0.0999,1,0.705,Tact
+Urea Cycle,29,1.13,3,0.0999,1,0.705,Tact
+Phosphatidylcholine Biosynthesis,14,0.547,2,0.101,1,0.705,Tact
+Ammonia Recycling,32,1.25,3,0.125,1,0.807,Tact
+Beta Oxidation of Very Long Chain Fatty Acids,17,0.664,2,0.14,1,0.807,Tact
+Alanine Metabolism,17,0.664,2,0.14,1,0.807,Tact
+Betaine Metabolism,21,0.82,2,0.196,1,1,Tact
+"Valine, Leucine and Isoleucine Degradation",60,2.34,4,0.202,1,1,Tact
+Phytanic Acid Peroxisomal Oxidation,26,1.02,2,0.27,1,1,Tact
+Mitochondrial Beta-Oxidation of Short Chain Saturated Fatty Acids,27,1.05,2,0.285,1,1,Tact
+Glutamate Metabolism,49,1.91,3,0.299,1,1,Tact
+Phenylalanine and Tyrosine Metabolism,28,1.09,2,0.3,1,1,Tact

@@ -1,0 +1,38 @@
+"","total","expected","hits","Raw p","Holm p","FDR"
+"Purine Metabolism",74,1.08,6,0.000346,0.0339,0.0339
+"Arginine and Proline Metabolism",53,0.776,4,0.00571,0.554,0.28
+"Methionine Metabolism",43,0.63,3,0.0221,1,0.721
+"Glutamate Metabolism",49,0.718,3,0.0312,1,0.765
+"Carnitine Synthesis",22,0.322,2,0.0391,1,0.766
+"Ammonia Recycling",32,0.469,2,0.0771,1,1
+"Malate-Aspartate Shuttle",10,0.146,1,0.138,1,1
+"Phosphatidylethanolamine Biosynthesis",12,0.176,1,0.163,1,1
+"Ketone Body Metabolism",13,0.19,1,0.176,1,1
+"Phosphatidylcholine Biosynthesis",14,0.205,1,0.188,1,1
+"Glycine and Serine Metabolism",59,0.864,2,0.212,1,1
+"Alanine Metabolism",17,0.249,1,0.223,1,1
+"Phosphatidylinositol Phosphate Metabolism",17,0.249,1,0.223,1,1
+"Spermidine and Spermine Biosynthesis",18,0.264,1,0.235,1,1
+"Bile Acid Biosynthesis",65,0.952,2,0.246,1,1
+"Butyrate Metabolism",19,0.278,1,0.246,1,1
+"Mitochondrial Electron Transport Chain",19,0.278,1,0.246,1,1
+"Threonine and 2-Oxobutanoate Degradation",20,0.293,1,0.258,1,1
+"Glutathione Metabolism",21,0.308,1,0.269,1,1
+"Betaine Metabolism",21,0.308,1,0.269,1,1
+"Oxidation of Branched Chain Fatty Acids",26,0.381,1,0.322,1,1
+"Phytanic Acid Peroxisomal Oxidation",26,0.381,1,0.322,1,1
+"Inositol Phosphate Metabolism",26,0.381,1,0.322,1,1
+"Selenoamino Acid Metabolism",28,0.41,1,0.342,1,1
+"Urea Cycle",29,0.425,1,0.352,1,1
+"Citric Acid Cycle",32,0.469,1,0.381,1,1
+"Inositol Metabolism",33,0.483,1,0.39,1,1
+"Beta-Alanine Metabolism",34,0.498,1,0.4,1,1
+"Aspartate Metabolism",35,0.513,1,0.409,1,1
+"Galactose Metabolism",38,0.557,1,0.435,1,1
+"Porphyrin Metabolism",40,0.586,1,0.452,1,1
+"Sphingolipid Metabolism",40,0.586,1,0.452,1,1
+"Steroidogenesis",43,0.63,1,0.477,1,1
+"Steroid Biosynthesis",48,0.703,1,0.516,1,1
+"Warburg Effect",58,0.85,1,0.586,1,1
+"Valine, Leucine and Isoleucine Degradation",60,0.879,1,0.598,1,1
+"Tyrosine Metabolism",72,1.05,1,0.668,1,1

@@ -1,0 +1,7 @@
+SampleID	Group
+TC1-Tfh	Tfh
+TC2-Tfh	Tfh
+TC4-Tfh	Tfh
+TC1-Tn	Tn
+TC2-Tn	Tn
+TC4-Tn	Tn

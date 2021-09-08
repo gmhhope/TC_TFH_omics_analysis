@@ -1,0 +1,14 @@
+"","total","expected","hits","Raw p","Holm p","FDR"
+"Valine, Leucine and Isoleucine Degradation",60,0.469,2,0.0753,1,1
+"Ketone Body Metabolism",13,0.102,1,0.0975,1,1
+"Butyrate Metabolism",19,0.148,1,0.14,1,1
+"Mitochondrial Electron Transport Chain",19,0.148,1,0.14,1,1
+"Carnitine Synthesis",22,0.172,1,0.16,1,1
+"Oxidation of Branched Chain Fatty Acids",26,0.203,1,0.187,1,1
+"Phytanic Acid Peroxisomal Oxidation",26,0.203,1,0.187,1,1
+"Citric Acid Cycle",32,0.25,1,0.225,1,1
+"Aspartate Metabolism",35,0.273,1,0.244,1,1
+"Glutamate Metabolism",49,0.383,1,0.325,1,1
+"Arginine and Proline Metabolism",53,0.414,1,0.347,1,1
+"Warburg Effect",58,0.453,1,0.374,1,1
+"Purine Metabolism",74,0.578,1,0.452,1,1

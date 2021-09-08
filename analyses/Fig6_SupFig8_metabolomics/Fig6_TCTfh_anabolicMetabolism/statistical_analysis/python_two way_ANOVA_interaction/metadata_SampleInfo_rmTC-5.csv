@@ -1,0 +1,33 @@
+label,SampleID,mx_class,mx_sample,group,cohort,species,organ,treatment
+B6-1 TFH_007,C2_B6-1_Tfh_007,528967,528984,B6_Tfh,C2,mouse,cells,B6 follicular helper CD4 T cells - mouse cells
+B6-2 TFH_008,C2_B6-2_Tfh_008,528967,528983,B6_Tfh,C2,mouse,cells,B6 follicular helper CD4 T cells - mouse cells
+B6-4 TFH_009,C2_B6-4_Tfh_009,528967,528982,B6_Tfh,C2,mouse,cells,B6 follicular helper CD4 T cells - mouse cells
+B6-6 TFH_010,C2_B6-6_Tfh_010,528967,528981,B6_Tfh,C2,mouse,cells,B6 follicular helper CD4 T cells - mouse cells
+B6-7 TFH_011,C2_B6-7_Tfh_011,528967,528980,B6_Tfh,C2,mouse,cells,B6 follicular helper CD4 T cells - mouse cells
+B6-8 TFH_012,C2_B6-8_Tfh_012,528967,528968,B6_Tfh,C2,mouse,cells,B6 follicular helper CD4 T cells - mouse cells
+B6-1 TN_001,C2_B6-1_Tn_001,528969,528979,B6_Tn,C2,mouse,cells,B6_Tn - mouse cells
+B6-2 TN_002,C2_B6-2_Tn_002,528969,528978,B6_Tn,C2,mouse,cells,B6_Tn - mouse cells
+B6-4 TN_003,C2_B6-4_Tn_003,528969,528977,B6_Tn,C2,mouse,cells,B6_Tn - mouse cells
+B6-6 TN_004,C2_B6-6_Tn_004,528969,528976,B6_Tn,C2,mouse,cells,B6_Tn - mouse cells
+B6-7 TN_005,C2_B6-7_Tn_005,528969,528975,B6_Tn,C2,mouse,cells,B6_Tn - mouse cells
+B6-8 TN_006,C2_B6-8_Tn_006,528969,528970,B6_Tn,C2,mouse,cells,B6_Tn - mouse cells
+B6-1 Tfh_004,C1_B6-1_Tfh_004,493115,493124,B6 Tfh,C1,mouse,spleen,mouse - spleen
+B6-1 TN_001,C1_B6-1_Tn_001,493115,493127,B6_Tn,C1,mouse,spleen,mouse - spleen
+B6-2 Tfh_005,C1_B6-2_Tfh_005,493115,493123,B6 Tfh,C1,mouse,spleen,mouse - spleen
+B6-2 TN_002,C1_B6-2_Tn_002,493115,493126,B6_Tn,C1,mouse,spleen,mouse - spleen
+B6-3 Tfh_006,C1_B6-3_Tfh_006,493115,493122,B6 Tfh,C1,mouse,spleen,mouse - spleen
+B6-3 TN_003,C1_B6-3_Tn_003,493115,493125,B6_Tn,C1,mouse,spleen,mouse - spleen
+TC-1 Tfh_010,C1_TC-1_Tfh_010,493115,493118,TC Tfh,C1,mouse,spleen,mouse - spleen
+TC-1 TN_007,C1_TC-1_Tn_007,493115,493121,TC_Tn,C1,mouse,spleen,mouse - spleen
+TC-2 Tfh_011,C1_TC-2_Tfh_011,493115,493117,TC Tfh,C1,mouse,spleen,mouse - spleen
+TC-2 TN_008,C1_TC-2_Tn_008,493115,493120,TC_Tn,C1,mouse,spleen,mouse - spleen
+TC-2 TN_009,C1_TC-2_Tn_009,493115,493119,TC_Tn,C1,mouse,spleen,mouse - spleen
+TC-3 Tfh_012,C1_TC-3_Tfh_012,493115,493116,TC Tfh,C1,mouse,spleen,mouse - spleen
+TC-1 TFH_018,C2_TC-1_Tfh_018,528971,528992,TC_Tfh,C2,mouse,cells,TC_Tfh - mouse cells
+TC-2 TFH_019,C2_TC-2_Tfh_019,528971,528991,TC_Tfh,C2,mouse,cells,TC_Tfh - mouse cells
+TC-3 TFH_020,C2_TC-3_Tfh_020,528971,528990,TC_Tfh,C2,mouse,cells,TC_Tfh - mouse cells
+TC-4 TFH_021,C2_TC-4_Tfh_021,528971,528989,TC_Tfh,C2,mouse,cells,TC_Tfh - mouse cells
+TC-1 TN_013,C2_TC-1_Tn_013,528973,528988,TC_Tn,C2,mouse,cells,TC na夫e CD4 T cells - mouse cells
+TC-2 TN_014,C2_TC-2_Tn_014,528973,528987,TC_Tn,C2,mouse,cells,TC na夫e CD4 T cells - mouse cells
+TC-3 TN_015,C2_TC-3_Tn_015,528973,528986,TC_Tn,C2,mouse,cells,TC na夫e CD4 T cells - mouse cells
+TC-4 TN_016,C2_TC-4_Tn_016,528973,528985,TC_Tn,C2,mouse,cells,TC na夫e CD4 T cells - mouse cells

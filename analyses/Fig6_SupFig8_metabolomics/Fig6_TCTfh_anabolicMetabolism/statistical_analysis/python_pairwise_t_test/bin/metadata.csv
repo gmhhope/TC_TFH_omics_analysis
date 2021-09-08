@@ -1,0 +1,13 @@
+Samples_original_ID,ID,Combn_grp,Genotype,Celltype,Exp_replicate,MS_replicate
+B6-1 Tfh_004,B6_Tfh.1,B6_Tfh,B6,Tfh,1,4
+B6-1 TN_001,B6_Tn.1,B6_Tn,B6,Tn,1,1
+B6-2 Tfh_005,B6_Tfh.2,B6_Tfh,B6,Tfh,2,5
+B6-2 TN_002,B6_Tn.2,B6_Tn,B6,Tn,2,2
+B6-3 Tfh_006,B6_Tfh.3,B6_Tfh,B6,Tfh,3,6
+B6-3 TN_003,B6_Tn.3,B6_Tn,B6,Tn,3,3
+TC-1 Tfh_010,TC_Tfh.1,TC_Tfh,TC,Tfh,1,10
+TC-1 TN_007,TC_Tn.1,TC_Tn,TC,Tn,1,7
+TC-2 Tfh_011,TC_Tfh.2,TC_Tfh,TC,Tfh,2,11
+TC-2 TN_008,TC_Tn.2,TC_Tn,TC,Tn,2,8
+TC-3 TN_009,TC_Tn.3,TC_Tn,TC,Tn,3,9
+TC-3 Tfh_012,TC_Tfh.3,TC_Tfh,TC,Tfh,3,12

@@ -1,0 +1,694 @@
+﻿MGI Gene/Marker ID,mouseSymbol,Name,Chr,Qualifier,Annotated Term,Context,Proteoform,Evidence,Inferred From,Reference(s)
+MGI:1919494,1600014C10Rik,RIKEN cDNA 1600014C10 gene,7,,response to oxidative stress,,,ISO,Q9NSK7 ,J:164563 
+MGI:102676,Abcc1,"ATP-binding cassette, sub-family C (CFTR/MRP), member 1",16,,response to oxidative stress,,,ISO,RGD:3112 ,J:155856 
+MGI:1349215,Abcd1,"ATP-binding cassette, sub-family D (ALD), member 1",X,,regulation of cellular response to oxidative stress,,,IMP,,J:136104 J:234537 
+MGI:87859,Abl1,"c-abl oncogene 1, non-receptor tyrosine kinase",2,,cellular response to hydrogen peroxide,,,ISO,P00519 ,J:164563 
+MGI:87859,Abl1,"c-abl oncogene 1, non-receptor tyrosine kinase",2,,response to oxidative stress,,,IMP,,J:172188 
+MGI:87859,Abl1,"c-abl oncogene 1, non-receptor tyrosine kinase",2,,response to oxidative stress,,,ISO,P00519 ,J:73065 
+MGI:1934852,Acox2,"acyl-Coenzyme A oxidase 2, branched chain",14,,positive regulation of response to oxidative stress,,,ISO,Q99424 ,J:164563 
+MGI:105376,Adam9,a disintegrin and metallopeptidase domain 9 (meltrin gamma),8,,response to hydrogen peroxide,,,ISO,Q13443 ,J:164563 
+MGI:106675,Adipoq,"adiponectin, C1Q and collagen domain containing",16,,detection of oxidative stress,,,IMP,,J:136297 
+MGI:2448562,Adnp2,ADNP homeobox 2,18,,cellular response to oxidative stress,,,IMP,,J:135357 
+MGI:2140364,Adprhl2,ADP-ribosylhydrolase like 2,4,,cellular response to superoxide,,,IMP,,J:202975 
+MGI:2140364,Adprhl2,ADP-ribosylhydrolase like 2,4,,cellular response to superoxide,,,ISO,Q9NX46 ,J:164563 
+MGI:2183446,Agap3,"ArfGAP with GTPase domain, ankyrin repeat and PH domain 3",5,,cellular response to reactive oxygen species,,,IDA,,J:105718 
+MGI:2183446,Agap3,"ArfGAP with GTPase domain, ankyrin repeat and PH domain 3",5,,cellular response to reactive oxygen species,,,ISO,F1NF99 ,J:105718 
+MGI:1343098,Aif1,allograft inflammatory factor 1,17,,cellular response to oxidative stress,,,ISO,P55008 ,J:164563 
+MGI:1349419,Aifm1,"apoptosis-inducing factor, mitochondrion-associated 1",X,,response to oxidative stress,,,TAS,,J:180458 
+MGI:1918611,Aifm2,"apoptosis-inducing factor, mitochondrion-associated 2",10,,regulation of cellular response to oxidative stress,,,IMP,,J:281212 
+MGI:1353494,Akr1b3,"aldo-keto reductase family 1, member B3 (aldose reductase)",6,,cellular response to hydrogen peroxide,,,ISO,RGD:2092 ,J:155856 
+MGI:2145420,Akr1c18,"aldo-keto reductase family 1, member C18",13,,cellular response to reactive oxygen species,,,ISO,P42330 ,J:164563 
+MGI:87986,Akt1,thymoma viral proto-oncogene 1,12,,cellular response to reactive oxygen species,,,ISO,P31749 ,J:164563 
+MGI:1353450,Aldh1a1,"aldehyde dehydrogenase family 1, subfamily A1",19,,response to oxidative stress,,,ISO,RGD:2087 ,J:155856 
+MGI:99600,Aldh2,"aldehyde dehydrogenase 2, mitochondrial",5,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,ISO,RGD:69219 ,J:155856 
+MGI:1353452,Aldh3a2,"aldehyde dehydrogenase family 3, subfamily A2",11,,response to reactive oxygen species,,,ISO,RGD:61866 ,J:155856 
+MGI:1914939,Aldh3b1,"aldehyde dehydrogenase 3 family, member B1",19,,cellular response to oxidative stress,,,ISO,P43353 ,J:73065 
+MGI:87999,Alox5,arachidonate 5-lipoxygenase,6,,regulation of cellular response to oxidative stress,,,IMP,,J:253033 
+MGI:1921268,Als2,alsin Rho guanine nucleotide exchange factor,1,,response to oxidative stress,"has the participant cerebral cortex,has the participant primary neuron|has the participant cerebellum,has the participant primary neuron",,IMP,MGI:3522476 ,J:100336 
+MGI:1861447,Ankrd2,ankyrin repeat domain 2 (stretch responsive muscle),19,,regulation of transcription from RNA polymerase II promoter in response to oxidative stress,,,ISO,Q9GZV1 ,J:73065 
+MGI:1098746,Ankzf1,ankyrin repeat and zinc finger domain containing 1,1,,cellular response to hydrogen peroxide,,,ISO,Q9H8Y5 ,J:164563 
+MGI:96819,Anxa1,annexin A1,19,,cellular response to hydrogen peroxide,,,IBA,PTN002574794 ,J:265628 
+MGI:96819,Anxa1,annexin A1,19,,cellular response to hydrogen peroxide,,,ISO,RGD:2118 ,J:155856 
+MGI:88042,Apex1,apurinic/apyrimidinic endonuclease 1,14,,cellular response to hydrogen peroxide,,,ISO,RGD:2126 ,J:155856 
+MGI:88051,Apoa4,apolipoprotein A-IV,9,,removal of superoxide radicals,,,ISO,P06727 ,J:164563 
+MGI:88051,Apoa4,apolipoprotein A-IV,9,,response to lipid hydroperoxide,,,ISO,P06727 ,J:164563 
+MGI:88056,Apod,apolipoprotein D,16,,response to reactive oxygen species,,,IBA,PTN000064702 ,J:265628 
+MGI:88056,Apod,apolipoprotein D,16,,response to reactive oxygen species,,,IMP,,J:143809 
+MGI:88056,Apod,apolipoprotein D,16,,response to reactive oxygen species,,,ISO,P05090 ,J:164563 
+MGI:88057,Apoe,apolipoprotein E,7,,response to oxidative stress,,,IMP,MGI:2137814 ,J:33429 
+MGI:88059,App,amyloid beta (A4) precursor protein,16,,positive regulation of oxidative stress-induced neuron death,,,ISO,P05067 ,J:164563 
+MGI:88059,App,amyloid beta (A4) precursor protein,16,,response to oxidative stress,,,IGI,MGI:1202717 ,J:106153 
+MGI:1913658,Aptx,aprataxin,4,,response to hydrogen peroxide,,,ISO,Q7Z2E3 ,J:164563 
+MGI:103201,Aqp1,aquaporin 1,6,,cellular response to hydrogen peroxide,,,ISO,P29972 ,J:164563 
+MGI:103201,Aqp1,aquaporin 1,6,,cellular response to nitric oxide,,,ISO,P29972 ,J:164563 
+MGI:1929501,Arl6ip5,ADP-ribosylation factor-like 6 interacting protein 5,6,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,ISO,O75915 ,J:164563 
+MGI:88071,Arnt,aryl hydrocarbon receptor nuclear translocator,3,,regulation of transcription from RNA polymerase II promoter in response to oxidative stress,,,ISO,P27540 ,J:164563 
+MGI:1096381,Arntl,aryl hydrocarbon receptor nuclear translocator-like,7,,oxidative stress-induced premature senescence,,,IMP,,J:207073 
+MGI:88096,Atf4,activating transcription factor 4,15,,cellular response to oxidative stress,,,IMP,,J:137331 
+MGI:88096,Atf4,activating transcription factor 4,15,,negative regulation of oxidative stress-induced neuron death,,,ISO,RGD:621863 ,J:155856 
+MGI:88096,Atf4,activating transcription factor 4,15,,negative regulation of oxidative stress-induced neuron death,,,ISO,P18848 ,J:164563 
+MGI:88096,Atf4,activating transcription factor 4,15,,positive regulation of transcription from RNA polymerase II promoter in response to oxidative stress,,,IBA,PTN002660514 ,J:265628 
+MGI:88096,Atf4,activating transcription factor 4,15,,positive regulation of transcription from RNA polymerase II promoter in response to oxidative stress,,,ISO,RGD:621863 ,J:155856 
+MGI:88096,Atf4,activating transcription factor 4,15,,positive regulation of transcription from RNA polymerase II promoter in response to oxidative stress,,,ISO,P18848 ,J:164563 
+MGI:1921494,Atg7,autophagy related 7,6,,cellular response to reactive oxygen species,happens in non-terminally differentiated osteoblast,,IMP,,J:203940 
+MGI:1921494,Atg7,autophagy related 7,6,,negative regulation of oxidative stress-induced neuron death,,,ISO,RGD:1304817 ,J:155856 
+MGI:1333855,Atox1,antioxidant 1 copper chaperone,11,,response to oxidative stress,,,IBA,PTN000517251 ,J:265628 
+MGI:1333855,Atox1,antioxidant 1 copper chaperone,11,,response to oxidative stress,,,ISO,RGD:621684 ,J:155856 
+MGI:88110,Atp2a2,"ATPase, Ca++ transporting, cardiac muscle, slow twitch 2",5,,cellular response to oxidative stress,,,IGI,MGI:2151208 ,J:219362 
+MGI:99400,Atp7a,"ATPase, Cu++ transporting, alpha polypeptide",X,,positive regulation of superoxide dismutase activity,,,IMP,MGI:1856098 ,J:5830 
+MGI:99400,Atp7a,"ATPase, Cu++ transporting, alpha polypeptide",X,,removal of superoxide radicals,has the participant aorta,,IMP,MGI:1856097 ,J:105736 
+MGI:1922022,Atp13a2,ATPase type 13A2,4,,cellular response to oxidative stress,happens in neuron of cerebral cortex,,IMP,,J:232983 
+MGI:1922022,Atp13a2,ATPase type 13A2,4,,cellular response to oxidative stress,,,ISO,Q9NQ11 ,J:164563 
+MGI:1341628,Atrn,attractin,2,,response to oxidative stress,,,ISO,RGD:69063 ,J:155856 
+MGI:1347244,Axl,AXL receptor tyrosine kinase,7,,cellular response to hydrogen peroxide,,,ISO,RGD:620028 ,J:155856 
+MGI:1917619,Bag5,BCL2-associated athanogene 5,12,,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,ISO,Q9UL15 ,J:164563 
+MGI:108091,Bcar1,breast cancer anti-estrogen resistance 1,8,,cellular response to nitric oxide,,,ISO,RGD:2406 ,J:155856 
+MGI:88138,Bcl2,B cell leukemia/lymphoma 2,1,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,IMP,,J:86240 
+MGI:88138,Bcl2,B cell leukemia/lymphoma 2,1,,response to hydrogen peroxide,has the participant myeloid cell,,IMP,,J:86240 
+MGI:88138,Bcl2,B cell leukemia/lymphoma 2,1,,response to oxidative stress,has the participant myeloid cell,,IMP,,J:86240 
+MGI:88180,Bmp4,bone morphogenetic protein 4,14,,cellular response to oxidative stress,,,ISO,RGD:2213 ,J:155856 
+MGI:109326,Bnip3,BCL2/adenovirus E1B interacting protein 3,7,,cellular response to hydrogen peroxide,,,ISO,RGD:620800 ,J:155856 
+MGI:1913903,Brf2,"BRF2, RNA polymerase III transcription initiation factor 50kDa subunit",8,,cellular response to oxidative stress,,,ISO,Q9HAW0 ,J:164563 
+MGI:88216,Btk,Bruton agammaglobulinemia tyrosine kinase,X,,cellular response to reactive oxygen species,,,ISO,RGD:1359683 ,J:155856 
+MGI:88259,Camk2g,calcium/calmodulin-dependent protein kinase II gamma,14,,response to oxidative stress,,,ISO,RGD:621802 ,J:155856 
+MGI:88263,Capn1,calpain 1,19,,cellular response to hydrogen peroxide,,,ISO,RGD:2267 ,J:155856 
+MGI:88270,Car3,carbonic anhydrase 3,3,,response to oxidative stress,,,ISO,RGD:2241 ,J:155856 
+MGI:107739,Casp3,caspase 3,8,,response to hydrogen peroxide,,,ISO,RGD:2275 ,J:155856 
+MGI:1312921,Casp6,caspase 6,3,,response to hydrogen peroxide,,,ISO,RGD:70967 ,J:155856 
+MGI:88271,Cat,catalase,2,,response to hydrogen peroxide,,,IBA,PTN000157250 ,J:265628 
+MGI:88271,Cat,catalase,2,,response to oxidative stress,,,IDA,,J:118189 
+MGI:88271,Cat,catalase,2,,response to oxidative stress,,,IMP,MGI:3051232 ,J:91752 
+MGI:88271,Cat,catalase,2,,response to oxidative stress,,,ISO,RGD:2279 ,J:155856 
+MGI:88271,Cat,catalase,2,,response to reactive oxygen species,,,ISO,RGD:2279 ,J:155856 
+MGI:88271,Cat,catalase,2,,response to reactive oxygen species,,,ISO,P04040 ,J:164563 
+MGI:1346316,Ccl19,chemokine (C-C motif) ligand 19,4,,response to nitric oxide,,,ISO,Q99731 ,J:164563 
+MGI:103011,Ccr7,chemokine (C-C motif) receptor 7,11,,response to nitric oxide,,,TAS,,J:175178 
+MGI:1333783,Ccs,copper chaperone for superoxide dismutase,19,,removal of superoxide radicals,,,IBA,PTN000000113 ,J:265628 
+MGI:107899,Cd36,CD36 molecule,5,,cellular response to hydroperoxide,,,IMP,,J:166919 
+MGI:107899,Cd36,CD36 molecule,5,,regulation of removal of superoxide radicals,,,IMP,,J:166919 
+MGI:107899,Cd36,CD36 molecule,5,,regulation of transcription from RNA polymerase II promoter in response to oxidative stress,,,IC,GO:0000122 ,J:166919 
+MGI:107474,Cd38,CD38 antigen,5,,response to hydroperoxide,,,ISO,RGD:2303 ,J:155856 
+MGI:104738,Cdkn2a,cyclin dependent kinase inhibitor 2A,4,,cellular response to hydrogen peroxide,,,IDA,,J:198334 
+MGI:101757,Cfl1,"cofilin 1, non-muscle",19,,cellular response to hydrogen peroxide,,,ISO,RGD:69285 ,J:155856 
+MGI:1336166,Cflar,CASP8 and FADD-like apoptosis regulator,1,,cellular response to nitric oxide,,,ISO,RGD:620847 ,J:155856 
+MGI:1919420,Chchd4,coiled-coil-helix-coiled-coil-helix domain containing 4,6,,cellular response to oxidative stress,,,IDA,,J:201969 
+MGI:1918639,Chd6,chromodomain helicase DNA binding protein 6,2,,positive regulation of transcription from RNA polymerase II promoter in response to oxidative stress,,,ISO,Q8TD26 ,J:164563 
+MGI:87888,Chrna4,"cholinergic receptor, nicotinic, alpha polypeptide 4",2,,response to oxidative stress,,,ISO,P43681 ,J:164563 
+MGI:99484,Chuk,conserved helix-loop-helix ubiquitous kinase,19,,cellular response to reactive oxygen species,,,ISO,O15111 ,J:164563 
+MGI:1349447,Cln8,CLN8 transmembrane ER and ERGIC protein,8,,age-dependent response to oxidative stress,has the participant retina,,IMP,MGI:1856959 ,J:90947 
+MGI:1915270,Coa8,cytochrome c oxidase assembly factor 8,12,,response to reactive oxygen species,,,IDA,,J:277865 
+MGI:1915270,Coa8,cytochrome c oxidase assembly factor 8,12,,response to reactive oxygen species,,,ISO,Q96IL0 ,J:164563 
+MGI:107207,Coq7,demethyl-Q 7,7,,age-dependent response to oxidative stress,,,IMP,MGI:2157003 ,J:152626 
+MGI:107207,Coq7,demethyl-Q 7,7,,cellular response to oxidative stress,,,IMP,MGI:2157003 ,J:142006 
+MGI:107207,Coq7,demethyl-Q 7,7,,response to oxidative stress,,,IGI,MGI:98352 ,J:152626 
+MGI:107207,Coq7,demethyl-Q 7,7,,response to oxidative stress,,,IMP,MGI:2157003 ,J:152626 
+MGI:2442640,Cpeb2,cytoplasmic polyadenylation element binding protein 2,5,,cellular response to oxidative stress,,,IDA,,J:181762 
+MGI:88508,Crk,v-crk avian sarcoma virus CT10 oncogene homolog,11,,cellular response to nitric oxide,,,ISO,RGD:2405 ,J:155856 
+MGI:88508,Crk,v-crk avian sarcoma virus CT10 oncogene homolog,11,,response to hydrogen peroxide,,,ISO,RGD:2405 ,J:155856 
+MGI:88515,Cryaa,"crystallin, alpha A",17,,response to hydrogen peroxide,,,IMP,MGI:1858025 ,J:121617 
+MGI:88515,Cryaa,"crystallin, alpha A",17,,response to hydrogen peroxide,,,ISO,RGD:2413 ,J:155856 
+MGI:88516,Cryab,"crystallin, alpha B",9,,response to hydrogen peroxide,,,IMP,MGI:2652177 ,J:121617 
+MGI:88524,Crygd,"crystallin, gamma D",1,,cellular response to reactive oxygen species,,,ISO,P07320 ,J:164563 
+MGI:102519,Cst3,cystatin C,2,,response to oxidative stress,,,ISO,RGD:2432 ,J:155856 
+MGI:88276,Ctnnb1,"catenin (cadherin associated protein), beta 1",9,,negative regulation of oxidative stress-induced neuron death,regulates a function/process that happens in midbrain dopaminergic neuron,,IMP,,J:231273 
+MGI:2149481,Cygb,cytoglobin,11,,response to oxidative stress,,,ISO,RGD:69415 ,J:155856 
+MGI:2149481,Cygb,cytoglobin,11,,response to oxidative stress,,,ISS,Q921A4 ,J:114057 
+MGI:88590,Cyp1b1,"cytochrome P450, family 1, subfamily b, polypeptide 1",17,,cellular response to hydrogen peroxide,,,IMP,,J:205425 
+MGI:88590,Cyp1b1,"cytochrome P450, family 1, subfamily b, polypeptide 1",17,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,IMP,,J:197371 J:205425 
+MGI:88582,Cyp11a1,"cytochrome P450, family 11, subfamily a, polypeptide 1",9,,response to hydrogen peroxide,,,ISO,RGD:69325 ,J:155856 
+MGI:1916885,Dapk1,death associated protein kinase 1,13,,cellular response to hydroperoxide,,,ISO,P53355 ,J:164563 
+MGI:1921291,Ddias,DNA damage-induced apoptosis suppressor,7,,cellular response to hydroperoxide,happens in fibroblast,,IMP,,J:123623 
+MGI:3580254,Dgkk,diacylglycerol kinase kappa,X,,response to oxidative stress,,,ISO,Q5KSL6 ,J:164563 
+MGI:94890,Dhfr,dihydrofolate reductase,13,,regulation of removal of superoxide radicals,happens in endothelial cell,,IMP,,J:222680 
+MGI:1913843,Diablo,"diablo, IAP-binding mitochondrial protein",5,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,IBA,PTN001283560 ,J:265628 
+MGI:1913843,Diablo,"diablo, IAP-binding mitochondrial protein",5,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,IDA,,J:100137 
+MGI:95281,Ect2,ect2 oncogene,3,,cellular response to hydrogen peroxide,,,ISO,Q9H8V3 ,J:164563 
+MGI:95294,Egfr,epidermal growth factor receptor,11,,cellular response to reactive oxygen species,,,ISO,P00533 ,J:164563 
+MGI:1932286,Egln1,egl-9 family hypoxia-inducible factor 1,8,,response to nitric oxide,,,ISO,Q9GZT9 ,J:164563 
+MGI:95299,Eif2s1,"eukaryotic translation initiation factor 2, subunit 1 alpha",12,,cellular response to oxidative stress,,,IMP,,J:259116 
+MGI:1261433,Endog,endonuclease G,2,,positive regulation of hydrogen peroxide-mediated programmed cell death,,,ISO,RGD:1310763 ,J:155856 
+MGI:109169,Epas1,endothelial PAS domain protein 1,17,,regulation of transcription from RNA polymerase II promoter in response to oxidative stress,regulates Sod2|regulates Sod1|regulates Gpx1|regulates Cat,,IDA,,J:86736 
+MGI:109169,Epas1,endothelial PAS domain protein 1,17,NOT,regulation of transcription from RNA polymerase II promoter in response to oxidative stress,regulates a function/process that happens in fibroblast,,IGI,MGI:106918 ,J:84384 
+MGI:109169,Epas1,endothelial PAS domain protein 1,17,,regulation of transcription from RNA polymerase II promoter in response to oxidative stress,regulates Epo,,IMP,MGI:3710344 ,J:119731 
+MGI:109169,Epas1,endothelial PAS domain protein 1,17,,response to oxidative stress,,,IGI,MGI:98352 ,J:121138 
+MGI:109169,Epas1,endothelial PAS domain protein 1,17,,response to oxidative stress,,,IMP,MGI:1861921 ,J:86736 
+MGI:95408,Epor,erythropoietin receptor,9,,negative regulation of hydrogen peroxide-induced cell death,,,ISO,RGD:2560 ,J:155856 
+MGI:107569,Epx,eosinophil peroxidase,11,,response to oxidative stress,,,IEA,IPR010255 ,J:72247 
+MGI:95412,Ercc1,"excision repair cross-complementing rodent repair deficiency, complementation group 1",7,,response to oxidative stress,,,ISO,P07992 ,J:164563 
+MGI:95413,Ercc2,"excision repair cross-complementing rodent repair deficiency, complementation group 2",7,,response to oxidative stress,,,IBA,PTN000158239 ,J:265628 
+MGI:95413,Ercc2,"excision repair cross-complementing rodent repair deficiency, complementation group 2",7,,response to oxidative stress,,,IMP,MGI:2183949 ,J:76608 
+MGI:95413,Ercc2,"excision repair cross-complementing rodent repair deficiency, complementation group 2",7,,response to oxidative stress,,,ISO,P18074 ,J:164563 
+MGI:95414,Ercc3,"excision repair cross-complementing rodent repair deficiency, complementation group 3",18,,response to oxidative stress,,,ISO,P19447 ,J:164563 
+MGI:1100494,Ercc6,"excision repair cross-complementing rodent repair deficiency, complementation group 6",14,,response to oxidative stress,,,IMP,MGI:1932102 ,J:81189 
+MGI:1100494,Ercc6,"excision repair cross-complementing rodent repair deficiency, complementation group 6",14,,response to oxidative stress,,,ISO,Q03468 ,J:73065 
+MGI:1100494,Ercc6,"excision repair cross-complementing rodent repair deficiency, complementation group 6",14,,response to superoxide,,,IMP,MGI:1932102 ,J:92778 
+MGI:1923501,Ercc6l2,"excision repair cross-complementing rodent repair deficiency, complementation group 6 like 2",13,,cellular response to reactive oxygen species,,,ISO,Q5T890 ,J:164563 
+MGI:1919241,Ercc8,"excision repaiross-complementing rodent repair deficiency, complementation group 8",13,,response to oxidative stress,,,ISO,Q13216 ,J:164563 
+MGI:106100,Etfdh,"electron transferring flavoprotein, dehydrogenase",3,,response to oxidative stress,,,IDA,,J:150919 
+MGI:1096867,Etv5,ets variant 5,16,,cellular response to oxidative stress,,,ISO,P41161 ,J:164563 
+MGI:107940,Ezh2,enhancer of zeste 2 polycomb repressive complex 2 subunit,6,,cellular response to hydrogen peroxide,,,IDA,,J:198334 
+MGI:95479,Fabp1,"fatty acid binding protein 1, liver",6,,cellular response to hydrogen peroxide,,,ISO,P07148 ,J:164563 
+MGI:95480,Fancc,"Fanconi anemia, complementation group C",13,,cellular response to oxidative stress,,,IBA,PTN000423656 ,J:265628 
+MGI:95480,Fancc,"Fanconi anemia, complementation group C",13,,cellular response to oxidative stress,"happens in neuronal stem cell,happens in brain",,IGI,MGI:1890081 ,J:226736 
+MGI:95480,Fancc,"Fanconi anemia, complementation group C",13,,removal of superoxide radicals,,,IGI,MGI:98351 ,J:71134 
+MGI:2448480,Fancd2,"Fanconi anemia, complementation group D2",6,,cellular response to oxidative stress,"happens in neuronal stem cell,happens in brain",,IGI,MGI:1890081 ,J:226736 
+MGI:1346091,Fbln5,fibulin 5,12,,regulation of removal of superoxide radicals,,,IMP,,J:103848 
+MGI:1917004,Fbxo7,F-box protein 7,10,,negative regulation of hydrogen peroxide-induced neuron death,,,ISO,Q9Y3I1 ,J:164563 
+MGI:1917004,Fbxo7,F-box protein 7,10,,negative regulation of oxidative stress-induced neuron death,,,IBA,PTN001036668 ,J:265628 
+MGI:1917004,Fbxo7,F-box protein 7,10,,negative regulation of oxidative stress-induced neuron death,,,ISO,Q9Y3I1 ,J:164563 
+MGI:1354695,Fbxw7,F-box and WD-40 domain protein 7,3,,positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway,,,IMP,,J:204747 
+MGI:1354695,Fbxw7,F-box and WD-40 domain protein 7,3,,positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway,,,ISO,Q969H0 ,J:164563 
+MGI:105917,Fer,fer (fms/fps related) protein kinase,17,,cellular response to reactive oxygen species,,,IMP,,J:125059 
+MGI:99604,Fgf8,fibroblast growth factor 8,19,,response to oxidative stress,,,ISO,RGD:70891 ,J:155856 
+MGI:95574,Fos,FBJ osteosarcoma oncogene,12,,cellular response to reactive oxygen species,,,ISO,P01100 ,J:164563 
+MGI:1890077,Foxo1,forkhead box O1,3,,cellular response to nitric oxide,,,IDA,,J:187559 
+MGI:1890077,Foxo1,forkhead box O1,3,,cellular response to oxidative stress,,,IDA,,J:185464 
+MGI:1890081,Foxo3,forkhead box O3,10,,cellular response to oxidative stress,,,IDA,,J:210910 
+MGI:1890081,Foxo3,forkhead box O3,10,,cellular response to oxidative stress,"happens in neuronal stem cell,happens in brain",,IGI,MGI:2448480 MGI:95480 ,J:226736 
+MGI:1890081,Foxo3,forkhead box O3,10,,positive regulation of hydrogen peroxide-mediated programmed cell death,,,ISO,RGD:1309196 ,J:155856 
+MGI:1914004,Foxp1,forkhead box P1,6,,positive regulation of hydrogen peroxide-induced cell death,,,ISO,RGD:1308669 ,J:155856 
+MGI:1858901,Fut8,fucosyltransferase 8,12,,regulation of cellular response to oxidative stress,,,IMP,,J:217242 
+MGI:1096879,Fxn,frataxin,19,,cellular response to hydrogen peroxide,,,ISO,Q16595 ,J:164563 
+MGI:95602,Fyn,Fyn proto-oncogene,10,,negative regulation of oxidative stress-induced cell death,,,ISO,RGD:2641 ,J:155856 
+MGI:95602,Fyn,Fyn proto-oncogene,10,,response to hydrogen peroxide,,,ISO,RGD:2641 ,J:155856 
+MGI:95602,Fyn,Fyn proto-oncogene,10,,response to singlet oxygen,,,ISO,RGD:2641 ,J:155856 
+MGI:1196625,Fzd1,frizzled class receptor 1,5,,negative regulation of oxidative stress-induced neuron death,regulates a function/process that happens in midbrain dopaminergic neuron,,IMP,,J:231273 
+MGI:105979,G6pdx,glucose-6-phosphate dehydrogenase X-linked,X,,cellular response to oxidative stress,,,ISO,P11413 ,J:164563 
+MGI:105979,G6pdx,glucose-6-phosphate dehydrogenase X-linked,X,,response to oxidative stress,,,IMP,MGI:2182739 ,J:79386 J:95754 J:99289 J:102347 J:116392 
+MGI:105979,G6pdx,glucose-6-phosphate dehydrogenase X-linked,X,,response to oxidative stress,,,IMP,MGI:2387672 ,J:79389 
+MGI:108088,Gab1,growth factor receptor bound protein 2-associated protein 1,8,,response to oxidative stress,,,IDA,,J:83953 
+MGI:95664,Gata4,GATA binding protein 4,14,,negative regulation of oxidative stress-induced cell death,happens in cardiac muscle cell,,IDA,,J:232979 
+MGI:95675,Gch1,GTP cyclohydrolase 1,14,,regulation of removal of superoxide radicals,,,ISO,P30793 ,J:164563 
+MGI:104990,Gclc,"glutamate-cysteine ligase, catalytic subunit",9,,response to oxidative stress,,,ISO,RGD:619868 ,J:155856 
+MGI:104990,Gclc,"glutamate-cysteine ligase, catalytic subunit",9,,response to oxidative stress,,,ISO,P48506 ,J:164563 
+MGI:104995,Gclm,"glutamate-cysteine ligase, modifier subunit",3,,response to oxidative stress,has the participant fibroblast,,IMP,MGI:2447852 ,J:80927 
+MGI:104995,Gclm,"glutamate-cysteine ligase, modifier subunit",3,,response to oxidative stress,,,ISO,RGD:619871 ,J:155856 
+MGI:104995,Gclm,"glutamate-cysteine ligase, modifier subunit",3,,response to oxidative stress,,,ISO,P48507 ,J:164563 
+MGI:107757,Gfer,"growth factor, augmenter of liver regeneration",17,,negative regulation of oxidative stress-induced neuron death,,,ISO,RGD:61845 ,J:155856 
+MGI:1913385,Ggt7,gamma-glutamyltransferase 7,2,,negative regulation of response to oxidative stress,,,ISO,Q9UJ14 ,J:164563 
+MGI:95714,Gja3,"gap junction protein, alpha 3",14,,response to hydrogen peroxide,,,ISO,RGD:621820 ,J:155856 
+MGI:2135625,Glrx,glutaredoxin,13,,negative regulation of hydrogen peroxide-mediated programmed cell death,,,ISO,RGD:70951 ,J:155856 
+MGI:1916617,Glrx2,glutaredoxin 2 (thioltransferase),1,,response to hydrogen peroxide,,,ISO,Q9NS18 ,J:164563 
+MGI:1313297,Gpr37,G protein-coupled receptor 37,6,,negative regulation of hydrogen peroxide-induced cell death,,,IMP,,J:213894 
+MGI:1928503,Gpr37l1,G protein-coupled receptor 37-like 1,1,,negative regulation of hydrogen peroxide-induced cell death,,,IMP,,J:213894 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,IMP,MGI:2158814 ,J:72598 J:105089 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,regulates a function/process that happens in endothelial cell,,IMP,MGI:2158814 ,J:118088 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,response to hydrogen peroxide,,,IBA,PTN002613004 ,J:265628 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,response to hydrogen peroxide,has the participant endothelial cell,,IMP,MGI:2158814 ,J:118088 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,response to hydrogen peroxide,has the participant fibroblast,,IMP,MGI:2388705 ,J:87985 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,response to hydrogen peroxide,,,ISO,P07203 ,J:164563 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,response to hydroperoxide,has the participant retina,,IMP,MGI:2388705 ,J:111894 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,response to oxidative stress,,,IGI,MGI:104887 MGI:98352 ,J:90710 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,response to oxidative stress,,,IMP,MGI:2158814 ,J:59142 J:75857 J:90710 J:111478 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,response to oxidative stress,has the participant liver,,IMP,MGI:2158814 ,J:56648 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,response to oxidative stress,has the participant brain,,IMP,MGI:2158814 ,J:115327 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,response to oxidative stress,has the participant myoblast,,IMP,MGI:2158814 ,J:112583 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,response to reactive oxygen species,,,IMP,MGI:2158814 ,J:72598 J:118088 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,response to reactive oxygen species,happens in brain,,IMP,MGI:2158814 ,J:115327 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,response to reactive oxygen species,"happens in skeletal musculature,happens in skeletal muscle myoblast",,IMP,MGI:2158814 ,J:116698 
+MGI:104887,Gpx1,glutathione peroxidase 1,9,,response to reactive oxygen species,happens in myoblast,,IMP,MGI:2158814 ,J:112583 
+MGI:106609,Gpx2,glutathione peroxidase 2,12,,response to oxidative stress,,,IEA,IPR000889 ,J:72247 
+MGI:105102,Gpx3,glutathione peroxidase 3,11,,response to oxidative stress,,,IEA,IPR000889 ,J:72247 
+MGI:104767,Gpx4,glutathione peroxidase 4,10,,response to oxidative stress,,,IMP,,J:217747 J:255340 
+MGI:104886,Gpx5,glutathione peroxidase 5,13,,cellular response to oxidative stress,happens in cauda epididymis|happens in germ cell of testis,,IMP,MGI:4359923 ,J:152563 
+MGI:104886,Gpx5,glutathione peroxidase 5,13,,response to oxidative stress,,,IEA,IPR000889 ,J:72247 
+MGI:1922762,Gpx6,glutathione peroxidase 6,13,,response to oxidative stress,,,IEA,IPR000889 ,J:72247 
+MGI:1914555,Gpx7,glutathione peroxidase 7,4,,response to oxidative stress,,,IEA,IPR000889 IPR013376 ,J:72247 
+MGI:1916840,Gpx8,glutathione peroxidase 8 (putative),13,,response to oxidative stress,,,IEA,IPR000889 IPR013376 ,J:72247 
+MGI:87940,Grk2,G protein-coupled receptor kinase 2,19,,response to oxidative stress,,,ISO,RGD:2062 ,J:155856 
+MGI:1914037,Gskip,GSK3B interacting protein,12,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,ISO,Q9P0R6 ,J:164563 
+MGI:95804,Gsr,glutathione reductase,8,,cellular response to oxidative stress,,,IBA,PTN002448883 ,J:265628 
+MGI:95865,Gstp1,"glutathione S-transferase, pi 1",19,,response to reactive oxygen species,,,IDA,,J:172907 
+MGI:108086,Hdac1,histone deacetylase 1,4,,cellular response to oxidative stress,,,ISO,RGD:1309799 ,J:155856 
+MGI:1097691,Hdac2,histone deacetylase 2,10,,cellular response to hydrogen peroxide,,,ISO,RGD:619976 ,J:155856 
+MGI:1333752,Hdac6,histone deacetylase 6,X,,cellular response to hydrogen peroxide,,,ISO,Q9UBN7 ,J:164563 
+MGI:1333752,Hdac6,histone deacetylase 6,X,,positive regulation of hydrogen peroxide-mediated programmed cell death,,,ISO,Q9UBN7 ,J:164563 
+MGI:96079,Hgf,hepatocyte growth factor,5,,negative regulation of hydrogen peroxide-mediated programmed cell death,,,ISO,P14210 ,J:164563 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway,,,ISO,Q16665 ,J:164563 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,regulation of transcription from RNA polymerase II promoter in response to oxidative stress,"regulates a function/process that happens in fibroblast,regulates Vegfa",,IMP,MGI:2385358 ,J:84384 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,regulation of transcription from RNA polymerase II promoter in response to oxidative stress,,,ISO,RGD:61928 ,J:155856 
+MGI:106918,Hif1a,"hypoxia inducible factor 1, alpha subunit",12,,regulation of transcription from RNA polymerase II promoter in response to oxidative stress,,,ISO,Q16665 ,J:164563 
+MGI:2670962,Hk3,hexokinase 3,13,,negative regulation of hydrogen peroxide-mediated programmed cell death,,,ISO,RGD:2798 ,J:155856 
+MGI:96163,Hmox1,heme oxygenase 1,8,,regulation of transcription from RNA polymerase II promoter in response to oxidative stress,,,ISO,RGD:2806 ,J:155856 
+MGI:96163,Hmox1,heme oxygenase 1,8,,response to hydrogen peroxide,,,ISO,RGD:2806 ,J:155856 
+MGI:96163,Hmox1,heme oxygenase 1,8,,response to oxidative stress,,,IBA,PTN000076492 ,J:265628 
+MGI:96163,Hmox1,heme oxygenase 1,8,,response to oxidative stress,,,ISO,RGD:2806 ,J:155856 
+MGI:96163,Hmox1,heme oxygenase 1,8,,response to oxidative stress,,,ISO,P09601 ,J:164563 
+MGI:109373,Hmox2,heme oxygenase 2,16,,response to oxidative stress,,,IBA,PTN000076492 ,J:265628 
+MGI:109373,Hmox2,heme oxygenase 2,16,,response to oxidative stress,,,ISO,RGD:67402 ,J:155856 
+MGI:98504,Hnf1a,HNF1 homeobox A,5,,response to oxidative stress,,,IMP,MGI:2384429 ,J:60083 
+MGI:101947,Hnrnpd,heterogeneous nuclear ribonucleoprotein D,5,,cellular response to nitric oxide,,,ISO,RGD:620365 ,J:155856 
+MGI:1926465,Hnrnpm,heterogeneous nuclear ribonucleoprotein M,17,,regulation of mRNA stability involved in response to oxidative stress,,,IBA,PTN000543777 ,J:265628 
+MGI:96211,Hp,haptoglobin,8,,response to hydrogen peroxide,,,ISO,P00738 ,J:164563 
+MGI:96238,Hsf1,heat shock factor 1,15,,cellular response to hydrogen peroxide,,,ISO,RGD:620913 ,J:155856 
+MGI:96240,Hspb1,heat shock protein 1,5,,negative regulation of oxidative stress-induced cell death,,,ISO,RGD:61306 ,J:155856 
+MGI:96240,Hspb1,heat shock protein 1,5,,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,IDA,,J:99082 
+MGI:105053,Hsph1,heat shock 105kDa/110kDa protein 1,5,,negative regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide,,PR:Q61699-1,IMP,,J:143134 
+MGI:105053,Hsph1,heat shock 105kDa/110kDa protein 1,5,,negative regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide,,PR:Q61699-2,IMP,,J:143134 
+MGI:1928676,Htra2,HtrA serine peptidase 2,6,,cellular response to oxidative stress,,,IMP,,J:212461 
+MGI:1928676,Htra2,HtrA serine peptidase 2,6,,cellular response to oxidative stress,,,ISO,O43464 ,J:164563 
+MGI:96298,Hyal1,hyaluronoglucosaminidase 1,9,,response to reactive oxygen species,,,ISO,Q12794 ,J:164563 
+MGI:1196334,Hyal2,hyaluronoglucosaminidase 2,9,,response to reactive oxygen species,,,ISO,Q12891 ,J:164563 
+MGI:96412,Ide,insulin degrading enzyme,19,,age-dependent response to oxidative stress involved in chronological cell aging,,,IDA,,J:243822 
+MGI:96413,Idh1,"isocitrate dehydrogenase 1 (NADP+), soluble",1,,response to oxidative stress,,,IDA,,J:79887 
+MGI:96559,Il6,interleukin 6,5,,cellular response to hydrogen peroxide,,,ISO,P05231 ,J:164563 
+MGI:96537,Il10,interleukin 10,1,,negative regulation of hydrogen peroxide-induced neuron death,"regulates a function/process that happens in neuron of cerebral cortex,is a part of negative regulation of inflammatory response",,IGI,CPX-1134 ,J:176368 
+MGI:1098233,Impact,"impact, RWD domain protein",18,,cellular response to hydrogen peroxide,,,IDA,,J:211861 
+MGI:96607,Itgam,integrin alpha M,7,,positive regulation of oxidative stress-induced neuron death,"happens in substantia nigra pars compacta,regulates a function/process that happens in dopaminergic neuron,is a part of cellular response to stress",,IMP,,J:140934 
+MGI:96608,Itgav,integrin alpha V,2,,response to nitric oxide,,,TAS,,J:175313 
+MGI:96629,Jak2,Janus kinase 2,19,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,ISO,RGD:2939 ,J:155856 
+MGI:96629,Jak2,Janus kinase 2,19,,response to hydroperoxide,,,ISO,RGD:2939 ,J:155856 
+MGI:96629,Jak2,Janus kinase 2,19,,response to oxidative stress,,,ISO,RGD:2939 ,J:155856 
+MGI:96646,Jun,jun proto-oncogene,4,,cellular response to reactive oxygen species,,,ISO,P05412 ,J:164563 
+MGI:96668,Kcnc2,"potassium voltage gated channel, Shaw-related subfamily, member 2",10,,cellular response to nitric oxide,,,ISO,RGD:628829 ,J:155856 
+MGI:2448492,Kdm6b,KDM1 lysine (K)-specific demethylase 6B,11,,cellular response to hydrogen peroxide,,,IDA,,J:198334 
+MGI:1858732,Keap1,kelch-like ECH-associated protein 1,9,,cellular response to oxidative stress,,,IDA,,J:279942 J:279946 
+MGI:1858732,Keap1,kelch-like ECH-associated protein 1,9,,cellular response to oxidative stress,,,ISO,Q14145 ,J:164563 
+MGI:1100848,Kpna4,karyopherin (importin) alpha 4,3,,response to hydrogen peroxide,happens in testis,,IMP,,J:204120 
+MGI:1336997,Lancl1,LanC (bacterial lantibiotic synthetase component C)-like 1,1,,regulation of oxidative stress-induced neuron death,,,IMP,,J:214805 
+MGI:96756,Lck,lymphocyte protein tyrosine kinase,4,,response to hydrogen peroxide,,,ISO,RGD:2994 ,J:155856 
+MGI:96757,Lcn2,lipocalin 2,2,,cellular response to hydrogen peroxide,,,ISO,RGD:69408 ,J:155856 
+MGI:1934604,Lias,lipoic acid synthetase,5,,response to oxidative stress,,,IMP,MGI:3604218 ,J:143405 
+MGI:101789,Lig1,"ligase I, DNA, ATP-dependent",7,,response to hydrogen peroxide,has the participant fibroblast,,IMP,,J:170077 
+MGI:1921392,Lonp1,"lon peptidase 1, mitochondrial",17,,cellular response to oxidative stress,,,ISO,P36776 ,J:164563 
+MGI:1913975,Lrrk2,leucine-rich repeat kinase 2,15,,cellular response to oxidative stress,,,ISO,Q5S007 ,J:164563 
+MGI:1913975,Lrrk2,leucine-rich repeat kinase 2,15,,negative regulation of hydrogen peroxide-induced cell death,,,ISO,Q5S007 ,J:164563 
+MGI:1913975,Lrrk2,leucine-rich repeat kinase 2,15,,response to oxidative stress,,,ISO,Q5S007 ,J:164563 
+MGI:1349392,Macroh2a1,macroH2A.1 histone,13,,negative regulation of response to oxidative stress,,,IMP,,J:238450 
+MGI:1349392,Macroh2a1,macroH2A.1 histone,13,,negative regulation of response to oxidative stress,,,ISO,O75367 ,J:164563 
+MGI:1349392,Macroh2a1,macroH2A.1 histone,13,,positive regulation of response to oxidative stress,,,IMP,,J:238450 
+MGI:1349392,Macroh2a1,macroH2A.1 histone,13,,positive regulation of response to oxidative stress,,,ISO,O75367 ,J:164563 
+MGI:1349392,Macroh2a1,macroH2A.1 histone,13,,regulation of response to oxidative stress,,,IMP,,J:238450 
+MGI:1349392,Macroh2a1,macroH2A.1 histone,13,,regulation of response to oxidative stress,,,ISO,O75367 ,J:164563 
+MGI:1346866,Map2k1,mitogen-activated protein kinase kinase 1,9,,response to oxidative stress,,,ISO,RGD:70495 ,J:155856 
+MGI:1346876,Map3k5,mitogen-activated protein kinase kinase kinase 5,10,,cellular response to hydrogen peroxide,,,ISO,Q99683 ,J:164563 
+MGI:1346876,Map3k5,mitogen-activated protein kinase kinase kinase 5,10,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,IBA,PTN000684887 ,J:265628 
+MGI:1346876,Map3k5,mitogen-activated protein kinase kinase kinase 5,10,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,IDA,,J:143783 
+MGI:1346876,Map3k5,mitogen-activated protein kinase kinase kinase 5,10,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,ISO,Q99683 ,J:164563 
+MGI:1346858,Mapk1,mitogen-activated protein kinase 1,16,,cellular response to reactive oxygen species,,,ISO,P28482 ,J:164563 
+MGI:1346859,Mapk3,mitogen-activated protein kinase 3,7,,cellular response to reactive oxygen species,,,ISO,P27361 ,J:164563 
+MGI:1346347,Mapk7,mitogen-activated protein kinase 7,11,,cellular response to hydrogen peroxide,,,ISO,Q13164 ,J:164563 
+MGI:1346347,Mapk7,mitogen-activated protein kinase 7,11,,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,ISO,Q13164 ,J:164563 
+MGI:1346861,Mapk8,mitogen-activated protein kinase 8,14,,cellular response to hydrogen peroxide,,,IDA,,J:198334 
+MGI:1346861,Mapk8,mitogen-activated protein kinase 8,14,,cellular response to nitric oxide,happens in fibroblast,,IMP,,J:146389 
+MGI:1346861,Mapk8,mitogen-activated protein kinase 8,14,,cellular response to reactive oxygen species,,,ISO,P45983 ,J:164563 
+MGI:1346861,Mapk8,mitogen-activated protein kinase 8,14,,response to hydrogen peroxide,,,ISO,RGD:621506 ,J:155856 
+MGI:1346862,Mapk9,mitogen-activated protein kinase 9,11,,cellular response to reactive oxygen species,,,ISO,P45984 ,J:164563 
+MGI:1346864,Mapk13,mitogen-activated protein kinase 13,17,,cellular response to hydrogen peroxide,,,ISO,O15264 ,J:164563 
+MGI:2444554,Mapkap1,mitogen-activated protein kinase associated protein 1,2,,regulation of cellular response to oxidative stress,,,IMP,,J:125618 
+MGI:97180,Mapt,microtubule-associated protein tau,11,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,ISO,RGD:69329 ,J:155856 
+MGI:96922,Mb,myoglobin,15,,response to hydrogen peroxide,,,ISO,RGD:620411 ,J:155856 
+MGI:101769,Mcl1,myeloid cell leukemia sequence 1,3,,positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway,"happens in primary neuron,happens in brain",,IMP,,J:204747 
+MGI:101769,Mcl1,myeloid cell leukemia sequence 1,3,,positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway,,,ISO,Q07820 ,J:164563 
+MGI:1926021,Mctp1,"multiple C2 domains, transmembrane 1",13,,negative regulation of response to oxidative stress,,,ISO,RGD:1305199 ,J:155856 
+MGI:1921597,Meak7,"MTOR associated protein , eak-7 homolog",8,,negative regulation of oxidative stress-induced neuron death,,,IDA,,J:230923 
+MGI:106924,Melk,maternal embryonic leucine zipper kinase,4,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,IDA,,J:143783 
+MGI:96969,Met,met proto-oncogene,6,,negative regulation of hydrogen peroxide-mediated programmed cell death,,,ISO,P08581 ,J:164563 
+MGI:96969,Met,met proto-oncogene,6,,regulation of cellular response to oxidative stress,,,IMP,MGI:3041135 ,J:204089 
+MGI:104532,Mgat3,mannoside acetylglucosaminyltransferase 3,15,,cellular response to oxidative stress,,,IMP,MGI:1857830 ,J:237673 
+MGI:1913850,Mgst1,microsomal glutathione S-transferase 1,6,,cellular response to lipid hydroperoxide,,,ISO,P10620 ,J:164563 
+MGI:2179989,Mill2,MHC I like leukocyte 2,7,,response to oxidative stress,,,ISO,Q29980 ,J:164563 
+MGI:97009,Mmp2,matrix metallopeptidase 2,8,,cellular response to reactive oxygen species,,,IMP,,J:122383 
+MGI:97009,Mmp2,matrix metallopeptidase 2,8,,response to hydrogen peroxide,,,ISO,RGD:621316 ,J:155856 
+MGI:97009,Mmp2,matrix metallopeptidase 2,8,,response to oxidative stress,,,ISO,RGD:621316 ,J:155856 
+MGI:97010,Mmp3,matrix metallopeptidase 3,9,,positive regulation of oxidative stress-induced cell death,,,IMP,,J:211455 
+MGI:97011,Mmp9,matrix metallopeptidase 9,2,,cellular response to reactive oxygen species,,,ISO,P14780 ,J:164563 
+MGI:97011,Mmp9,matrix metallopeptidase 9,2,,response to oxidative stress,,,ISO,RGD:621320 ,J:155856 
+MGI:97137,Mpo,myeloperoxidase,11,,removal of superoxide radicals,has the participant neutrophil,,IMP,MGI:2176344 ,J:53993 
+MGI:97137,Mpo,myeloperoxidase,11,,response to oxidative stress,,,IEA,IPR010255 ,J:72247 
+MGI:97138,Mpv17,MpV17 mitochondrial inner membrane protein,5,,cellular response to reactive oxygen species,,,IMP,,J:132545 
+MGI:106916,Msra,methionine sulfoxide reductase A,14,,cellular response to oxidative stress,,,IBA,PTN000019085 ,J:265628 
+MGI:1923717,Msrb2,methionine sulfoxide reductase B2,2,,response to oxidative stress,,,IEA,IPR028427 ,J:72247 
+MGI:2443538,Msrb3,methionine sulfoxide reductase B3,10,,response to oxidative stress,,,IEA,IPR028427 ,J:72247 
+MGI:97173,Mt3,metallothionein 3,8,,cellular response to oxidative stress,happens in astrocyte|happens in CNS interneuron,,IDA,,J:168048 
+MGI:97173,Mt3,metallothionein 3,8,,response to oxidative stress,,,IMP,,J:157210 
+MGI:102504,mt-Co1,mitochondrially encoded cytochrome c oxidase I,MT,,response to oxidative stress,,,ISO,RGD:621871 ,J:155856 
+MGI:101787,mt-Nd1,mitochondrially encoded NADH dehydrogenase 1,MT,,response to hydroperoxide,,,ISO,RGD:620555 ,J:155856 
+MGI:102499,mt-Nd3,mitochondrially encoded NADH dehydrogenase 3,MT,,response to oxidative stress,,,ISO,RGD:620557 ,J:155856 
+MGI:101786,Mtf1,metal response element binding transcription factor 1,4,,response to oxidative stress,has the participant fibroblast,,IMP,MGI:2182939 ,J:48216 
+MGI:894292,Mtr,5-methyltetrahydrofolate-homocysteine methyltransferase,13,,cellular response to nitric oxide,,,ISO,RGD:621283 ,J:155856 
+MGI:1917853,Mutyh,mutY DNA glycosylase,4,,response to oxidative stress,,,ISO,RGD:620045 ,J:155856 
+MGI:104592,Myef2,"myelin basic protein expression factor 2, repressor",2,,regulation of mRNA stability involved in response to oxidative stress,,,IBA,PTN000543777 ,J:265628 
+MGI:2442664,Naprt,nicotinate phosphoribosyltransferase,15,,response to oxidative stress,,,ISO,Q6XQN6 ,J:164563 
+MGI:97283,Ncf1,neutrophil cytosolic factor 1,5,,cellular response to reactive oxygen species,,,ISO,P14598 ,J:164563 
+MGI:2444847,Ncoa7,nuclear receptor coactivator 7,10,,negative regulation of cellular response to oxidative stress,,,IDA,,J:230923 
+MGI:2444847,Ncoa7,nuclear receptor coactivator 7,10,,negative regulation of oxidative stress-induced neuron death,,,IBA,PTN001156357 ,J:265628 
+MGI:2444847,Ncoa7,nuclear receptor coactivator 7,10,,negative regulation of oxidative stress-induced neuron death,,,IDA,,J:230923 
+MGI:2444847,Ncoa7,nuclear receptor coactivator 7,10,,response to oxidative stress,,,IBA,PTN001156357 ,J:265628 
+MGI:1914380,Ndufa6,NADH:ubiquinone oxidoreductase subunit A6,15,,response to oxidative stress,,,IBA,PTN000311414 ,J:265628 
+MGI:1914380,Ndufa6,NADH:ubiquinone oxidoreductase subunit A6,15,,response to oxidative stress,,,ISO,P56556 ,J:164563 
+MGI:1913664,Ndufa12,NADH:ubiquinone oxidoreductase subunit A12,10,,response to oxidative stress,,,IBA,PTN000308146 ,J:265628 
+MGI:1913664,Ndufa12,NADH:ubiquinone oxidoreductase subunit A12,10,,response to oxidative stress,,,ISO,Q9UI09 ,J:164563 
+MGI:2385112,Ndufs2,NADH:ubiquinone oxidoreductase core subunit S2,1,,response to oxidative stress,,,ISO,O75306 ,J:164563 
+MGI:2385079,Ndufs8,NADH:ubiquinone oxidoreductase core subunit S8,19,,response to oxidative stress,,,ISO,O00217 ,J:164563 
+MGI:1920024,Neil1,nei endonuclease VIII-like 1 (E. coli),9,,response to oxidative stress,,,ISO,Q96FI4 ,J:164563 
+MGI:1927138,Net1,neuroepithelial cell transforming gene 1,13,,cellular response to hydrogen peroxide,,,ISO,Q7Z628 ,J:164563 
+MGI:99421,Nfe2l1,"nuclear factor, erythroid derived 2,-like 1",11,,cellular response to oxidative stress,,,IDA,,J:252061 J:276393 
+MGI:108420,Nfe2l2,"nuclear factor, erythroid derived 2, like 2",2,,cellular response to hydrogen peroxide,,,ISO,Q16236 ,J:164563 
+MGI:108420,Nfe2l2,"nuclear factor, erythroid derived 2, like 2",2,,cellular response to oxidative stress,,,IBA,PTN002813768 ,J:265628 
+MGI:108420,Nfe2l2,"nuclear factor, erythroid derived 2, like 2",2,,cellular response to oxidative stress,,,IDA,,J:41943 J:166919 
+MGI:108420,Nfe2l2,"nuclear factor, erythroid derived 2, like 2",2,,cellular response to oxidative stress,,,IMP,MGI:2385925 ,J:168404 
+MGI:108420,Nfe2l2,"nuclear factor, erythroid derived 2, like 2",2,,negative regulation of hydrogen peroxide-induced cell death,,,ISO,Q16236 ,J:164563 
+MGI:108420,Nfe2l2,"nuclear factor, erythroid derived 2, like 2",2,,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,ISO,Q16236 ,J:164563 
+MGI:108420,Nfe2l2,"nuclear factor, erythroid derived 2, like 2",2,,positive regulation of transcription from RNA polymerase II promoter in response to oxidative stress,,,ISO,RGD:620360 ,J:155856 
+MGI:108420,Nfe2l2,"nuclear factor, erythroid derived 2, like 2",2,,regulation of removal of superoxide radicals,,,IMP,,J:166919 
+MGI:97312,Nfkb1,"nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105",3,,response to oxidative stress,,,ISO,RGD:70498 ,J:155856 
+MGI:2151886,Ngb,neuroglobin,12,,negative regulation of hydrogen peroxide-induced cell death,,,ISO,RGD:621461 ,J:155856 
+MGI:97323,Ngfr,"nerve growth factor receptor (TNFR superfamily, member 16)",11,,cellular response to oxidative stress,,,ISO,RGD:3177 ,J:155856 
+MGI:1922783,Nme5,NME/NM23 family member 5,18,,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,IBA,PTN000887019 ,J:265628 
+MGI:1922783,Nme5,NME/NM23 family member 5,18,,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,IDA,,J:84025 
+MGI:1922783,Nme5,NME/NM23 family member 5,18,,response to reactive oxygen species,,,NAS,,J:84025 
+MGI:1920662,Nme8,NME/NM23 family member 8,13,,cellular response to reactive oxygen species,happens in sperm,,IGI,MGI:2389312 ,J:205172 
+MGI:1925938,Nol3,nucleolar protein 3 (apoptosis repressor with CARD domain),8,,negative regulation of hydrogen peroxide-induced cell death,,,ISO,RGD:708558 ,J:155856 
+MGI:1925938,Nol3,nucleolar protein 3 (apoptosis repressor with CARD domain),8,,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,ISO,O60936 ,J:164563 
+MGI:1855692,Nono,"non-POU-domain-containing, octamer binding protein",X,,negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway,,,ISO,Q15233 ,J:164563 
+MGI:97362,Nos3,"nitric oxide synthase 3, endothelial cell",5,,removal of superoxide radicals,,,ISO,P29474 ,J:164563 
+MGI:2450016,Nox1,NADPH oxidase 1,X,,positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,regulates a function/process that happens in lung,,IMP,MGI:3616995 ,J:167959 
+MGI:2450016,Nox1,NADPH oxidase 1,X,,response to reactive oxygen species,,,ISO,RGD:620598 ,J:155856 
+MGI:103187,Nqo1,"NAD(P)H dehydrogenase, quinone 1",8,,cellular response to hydrogen peroxide,,,ISO,RGD:2503 ,J:155856 
+MGI:103187,Nqo1,"NAD(P)H dehydrogenase, quinone 1",8,,response to oxidative stress,,,IMP,MGI:2388490 ,J:93514 
+MGI:1352456,Nr4a2,"nuclear receptor subfamily 4, group A, member 2",2,,cellular response to oxidative stress,happens in neuron,,IMP,,J:162076 
+MGI:1352457,Nr4a3,"nuclear receptor subfamily 4, group A, member 3",4,,negative regulation of hydrogen peroxide-induced neuron death,,,IMP,,J:162076 
+MGI:1352457,Nr4a3,"nuclear receptor subfamily 4, group A, member 3",4,,negative regulation of oxidative stress-induced neuron death,,,IGI,Q06219 ,J:162076 
+MGI:1352457,Nr4a3,"nuclear receptor subfamily 4, group A, member 3",4,,response to hydrogen peroxide,has the participant neuron,,IMP,,J:162076 
+MGI:2443366,Nudt15,nudix (nucleoside diphosphate linked moiety X)-type motif 15,14,,response to reactive oxygen species,,,IDA,,J:83864 
+MGI:1097693,Ogg1,8-oxoguanine DNA-glycosylase 1,6,,response to oxidative stress,,,ISO,O15527 ,J:164563 
+MGI:1913930,Oser1,oxidative stress responsive serine rich 1,2,,cellular response to hydrogen peroxide,,,IBA,PTN001264638 ,J:265628 
+MGI:1913930,Oser1,oxidative stress responsive serine rich 1,2,,cellular response to hydrogen peroxide,,,ISO,RGD:1303142 ,J:155856 
+MGI:2179326,Oxr1,oxidation resistance 1,15,,cellular response to hydroperoxide,,,IMP,MGI:4330699 ,J:177995 
+MGI:2179326,Oxr1,oxidation resistance 1,15,,negative regulation of cellular response to oxidative stress,,,IDA,,J:230923 
+MGI:2179326,Oxr1,oxidation resistance 1,15,,negative regulation of oxidative stress-induced neuron death,,,IBA,PTN001156357 ,J:265628 
+MGI:2179326,Oxr1,oxidation resistance 1,15,,negative regulation of oxidative stress-induced neuron death,,,IDA,,J:230923 
+MGI:2179326,Oxr1,oxidation resistance 1,15,,negative regulation of oxidative stress-induced neuron death,,,IMP,,J:230923 
+MGI:2179326,Oxr1,oxidation resistance 1,15,,response to oxidative stress,,,IBA,PTN001156357 ,J:265628 
+MGI:1917378,Oxsr1,oxidative-stress responsive 1,9,,response to oxidative stress,,,IDA,,J:80982 
+MGI:97464,P4hb,"prolyl 4-hydroxylase, beta polypeptide",11,,regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,ISO,P07237 ,J:164563 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,cellular response to hydrogen peroxide,,,IMP,,J:97366 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,cellular response to hydrogen peroxide,,,ISO,Q99497 ,J:164563 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,cellular response to oxidative stress,,,IMP,,J:168618 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,cellular response to oxidative stress,,,ISO,Q99497 ,J:164563 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,cellular response to reactive oxygen species,,,IMP,MGI:3579140 ,J:111114 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,negative regulation of hydrogen peroxide-induced cell death,,,ISO,Q99497 ,J:164563 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,negative regulation of hydrogen peroxide-induced neuron death,happens in neuron of cerebral cortex,,IMP,,J:211328 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,negative regulation of hydrogen peroxide-induced neuron death,,,ISO,Q99497 ,J:164563 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,negative regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway,,,IMP,,J:217286 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,negative regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway,,,ISO,Q99497 ,J:164563 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,negative regulation of oxidative stress-induced cell death,,,ISO,Q99497 ,J:164563 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,negative regulation of oxidative stress-induced neuron death,,,IMP,,J:211627 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway,,,ISO,Q99497 ,J:164563 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,IMP,,J:204791 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,positive regulation of superoxide dismutase activity,,,ISO,Q99497 ,J:164563 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,response to hydrogen peroxide,"has the participant cerebral cortex,has the participant CNS neuron (sensu Vertebrata)",,IDA,,J:97366 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,response to hydrogen peroxide,"has the participant cerebral cortex,has the participant CNS neuron (sensu Vertebrata)",,IMP,MGI:3576227 ,J:97366 
+MGI:2135637,Park7,"Parkinson disease (autosomal recessive, early onset) 7",4,,response to oxidative stress,,,ISO,RGD:621808 ,J:155856 
+MGI:1340806,Parp1,"poly (ADP-ribose) polymerase family, member 1",1,,cellular response to oxidative stress,,,ISO,P09874 ,J:218220 
+MGI:1340806,Parp1,"poly (ADP-ribose) polymerase family, member 1",1,,cellular response to superoxide,,,IDA,,J:202975 
+MGI:1340806,Parp1,"poly (ADP-ribose) polymerase family, member 1",1,,regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway,,,ISO,RGD:2053 ,J:155856 
+MGI:2149961,Pawr,"PRKC, apoptosis, WT1, regulator",10,,positive regulation of hydrogen peroxide-mediated programmed cell death,happens in fibroblast of cardiac tissue,,IMP,,J:223262 
+MGI:99161,Pcgf2,polycomb group ring finger 2,11,,cellular response to hydrogen peroxide,,,IDA,,J:198334 
+MGI:1928396,Pdcd10,programmed cell death 10,3,,intrinsic apoptotic signaling pathway in response to hydrogen peroxide,,,ISO,Q9BUL8 ,J:164563 
+MGI:1928396,Pdcd10,programmed cell death 10,3,,response to hydrogen peroxide,,,ISO,Q9BUL8 ,J:164563 
+MGI:1277116,Pde8a,phosphodiesterase 8A,7,,negative regulation of hydrogen peroxide-induced cell death,,,ISO,O60658 ,J:164563 
+MGI:97530,Pdgfra,"platelet derived growth factor receptor, alpha polypeptide",5,,cellular response to reactive oxygen species,,,ISO,P16234 ,J:207686 
+MGI:97531,Pdgfrb,"platelet derived growth factor receptor, beta polypeptide",18,,cellular response to hydrogen peroxide,,,IMP,,J:202378 
+MGI:1926119,Pdk1,"pyruvate dehydrogenase kinase, isoenzyme 1",2,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,ISO,Q15118 ,J:164563 
+MGI:1343087,Pdk2,"pyruvate dehydrogenase kinase, isoenzyme 2",11,,cellular response to reactive oxygen species,,,ISO,Q15119 ,J:164563 
+MGI:1916193,Pink1,PTEN induced putative kinase 1,4,,cellular response to oxidative stress,happens in corpus striatum,,IMP,,J:140335 
+MGI:1916193,Pink1,PTEN induced putative kinase 1,4,,cellular response to oxidative stress,,,ISO,Q9BXM7 ,J:164563 
+MGI:1916193,Pink1,PTEN induced putative kinase 1,4,,negative regulation of hydrogen peroxide-induced neuron intrinsic apoptotic signaling pathway,,,ISO,Q9BXM7 ,J:164563 
+MGI:1916193,Pink1,PTEN induced putative kinase 1,4,,negative regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide,,,ISO,Q9BXM7 ,J:164563 
+MGI:1916193,Pink1,PTEN induced putative kinase 1,4,,negative regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide,,,ISO,RGD:1305769 ,J:155856 
+MGI:1916193,Pink1,PTEN induced putative kinase 1,4,,negative regulation of oxidative stress-induced cell death,,,ISO,Q9BXM7 ,J:164563 
+MGI:1916193,Pink1,PTEN induced putative kinase 1,4,,regulation of cellular response to oxidative stress,,,ISO,Q9BXM7 ,J:164563 
+MGI:1916193,Pink1,PTEN induced putative kinase 1,4,,response to oxidative stress,,,ISO,Q9BXM7 ,J:164563 
+MGI:2444945,Pla2g3,"phospholipase A2, group III",11,,age-dependent response to oxidative stress involved in chronological cell aging,"happens in astrocyte,happens in telencephalon",,IEP,,J:243822 
+MGI:102468,Pla2r1,phospholipase A2 receptor 1,2,,oxidative stress-induced premature senescence,,,ISO,Q13018 ,J:164563 
+MGI:892877,Pld2,phospholipase D2,11,,response to hydrogen peroxide,,,ISO,RGD:3350 ,J:155856 
+MGI:2442213,Plekha1,"pleckstrin homology domain containing, family A (phosphoinositide binding specific) member 1",7,,cellular response to hydrogen peroxide,,,ISO,Q9HB21 ,J:164563 
+MGI:109604,Plk3,polo like kinase 3,4,,response to reactive oxygen species,,,ISO,Q9H4B4 ,J:164563 
+MGI:104662,Pml,promyelocytic leukemia,9,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,IMP,,J:166717 
+MGI:104662,Pml,promyelocytic leukemia,9,,negative regulation of translation in response to oxidative stress,,,ISO,P29590 ,J:164563 
+MGI:1891698,Pnkp,polynucleotide kinase 3'- phosphatase,7,,response to oxidative stress,,,ISO,Q96T60 ,J:164563 
+MGI:1918951,Pnpt1,polyribonucleotide nucleotidyltransferase 1,11,,cellular response to oxidative stress,,,ISO,Q8TCS8 ,J:164563 
+MGI:1342774,Ppargc1a,"peroxisome proliferative activated receptor, gamma, coactivator 1 alpha",5,,cellular response to oxidative stress,happens in neuron,,IMP,,J:162076 
+MGI:2444934,Ppargc1b,"peroxisome proliferative activated receptor, gamma, coactivator 1 beta",18,,cellular response to reactive oxygen species,,,IDA,,J:146763 
+MGI:2145814,Ppif,peptidylprolyl isomerase F (cyclophilin F),14,,cellular response to hydrogen peroxide,,,IBA,PTN002594555 ,J:265628 
+MGI:2145814,Ppif,peptidylprolyl isomerase F (cyclophilin F),14,,cellular response to hydrogen peroxide,,,IMP,,J:97660 J:97673 J:101149 J:186254 
+MGI:2145814,Ppif,peptidylprolyl isomerase F (cyclophilin F),14,,cellular response to hydrogen peroxide,,,ISO,P30405 ,J:164563 
+MGI:2145814,Ppif,peptidylprolyl isomerase F (cyclophilin F),14,,response to oxidative stress,has the participant fibroblast,,IGI,MGI:98834 ,J:186254 
+MGI:2444211,Ppp1r15b,"protein phosphatase 1, regulatory subunit 15B",1,,response to hydrogen peroxide,,,IMP,,J:86710 
+MGI:2444211,Ppp1r15b,"protein phosphatase 1, regulatory subunit 15B",1,,response to oxidative stress,,,IDA,,J:86710 
+MGI:2444211,Ppp1r15b,"protein phosphatase 1, regulatory subunit 15B",1,,response to oxidative stress,,,IMP,,J:86710 
+MGI:1321161,Ppp2cb,"protein phosphatase 2 (formerly 2A), catalytic subunit, beta isoform",8,,response to hydrogen peroxide,,,IMP,,J:116445 
+MGI:99523,Prdx1,peroxiredoxin 1,4,,removal of superoxide radicals,,,IBA,PTN000743557 ,J:265628 
+MGI:99523,Prdx1,peroxiredoxin 1,4,,removal of superoxide radicals,,,IMP,,J:116929 
+MGI:99523,Prdx1,peroxiredoxin 1,4,,removal of superoxide radicals,,,IMP,MGI:3611932 ,J:104078 
+MGI:99523,Prdx1,peroxiredoxin 1,4,,response to oxidative stress,,,IBA,PTN000073874 ,J:265628 
+MGI:99523,Prdx1,peroxiredoxin 1,4,,response to oxidative stress,,,IDA,,J:14699 
+MGI:99523,Prdx1,peroxiredoxin 1,4,,response to oxidative stress,"has the participant interdigital region between hindlimb digits 1 and 2 mesenchyme,has the participant mesenchymal stem cell",,IMP,,J:98374 
+MGI:99523,Prdx1,peroxiredoxin 1,4,,response to reactive oxygen species,,,IMP,MGI:2670538 ,J:84677 
+MGI:99523,Prdx1,peroxiredoxin 1,4,,response to reactive oxygen species,,,IMP,MGI:3611932 ,J:103909 J:104078 
+MGI:109486,Prdx2,peroxiredoxin 2,8,,cellular response to oxidative stress,,,ISO,P32119 ,J:164563 
+MGI:109486,Prdx2,peroxiredoxin 2,8,,removal of superoxide radicals,,,IBA,PTN000743557 ,J:265628 
+MGI:109486,Prdx2,peroxiredoxin 2,8,,removal of superoxide radicals,,,IMP,,J:166919 
+MGI:109486,Prdx2,peroxiredoxin 2,8,,removal of superoxide radicals,,,ISO,P32119 ,J:164563 
+MGI:109486,Prdx2,peroxiredoxin 2,8,,response to oxidative stress,,,IBA,PTN000073874 ,J:265628 
+MGI:109486,Prdx2,peroxiredoxin 2,8,,response to oxidative stress,,,ISO,RGD:3838 ,J:155856 
+MGI:109486,Prdx2,peroxiredoxin 2,8,,response to oxidative stress,,,ISO,P32119 ,J:164563 
+MGI:109486,Prdx2,peroxiredoxin 2,8,,response to oxidative stress,,,TAS,,J:39372 
+MGI:88034,Prdx3,peroxiredoxin 3,19,,cellular response to oxidative stress,,,IBA,PTN002449977 ,J:265628 
+MGI:88034,Prdx3,peroxiredoxin 3,19,,cellular response to oxidative stress,,,ISO,P30048 ,J:164563 
+MGI:88034,Prdx3,peroxiredoxin 3,19,,cellular response to reactive oxygen species,,,ISO,P30048 ,J:164563 
+MGI:88034,Prdx3,peroxiredoxin 3,19,,response to hydrogen peroxide,,,ISO,P30048 ,J:164563 
+MGI:88034,Prdx3,peroxiredoxin 3,19,,response to oxidative stress,,,IMP,MGI:3700138 ,J:118595 J:137348 
+MGI:88034,Prdx3,peroxiredoxin 3,19,,response to oxidative stress,,,ISO,P30048 ,J:164563 
+MGI:1859815,Prdx4,peroxiredoxin 4,X,,response to oxidative stress,,,IBA,PTN000073874 ,J:265628 
+MGI:1859821,Prdx5,peroxiredoxin 5,19,,cellular response to oxidative stress,,,IBA,PTN001625584 ,J:265628 
+MGI:1859821,Prdx5,peroxiredoxin 5,19,,cellular response to reactive oxygen species,,,ISO,P30044 ,J:164563 
+MGI:1859821,Prdx5,peroxiredoxin 5,19,,response to oxidative stress,,,ISO,P30044 ,J:164563 
+MGI:1859821,Prdx5,peroxiredoxin 5,19,,response to oxidative stress,,,ISS,P30044-2 ,J:58008 
+MGI:894320,Prdx6,peroxiredoxin 6,1,,response to oxidative stress,,,ISO,P30041 ,J:164563 
+MGI:894320,Prdx6,peroxiredoxin 6,1,,response to reactive oxygen species,,,IMP,MGI:2668338 ,J:84376 
+MGI:2145955,Prkaa1,"protein kinase, AMP-activated, alpha 1 catalytic subunit",15,,cellular response to oxidative stress,positively regulates stress granule assembly,,IGI,Q8BRK8 ,J:259116 
+MGI:2145955,Prkaa1,"protein kinase, AMP-activated, alpha 1 catalytic subunit",15,,response to hydrogen peroxide,,,IMP,,J:163548 
+MGI:1336173,Prkaa2,"protein kinase, AMP-activated, alpha 2 catalytic subunit",4,,cellular response to oxidative stress,positively regulates stress granule assembly,,IGI,Q5EG47 ,J:259116 
+MGI:97595,Prkca,"protein kinase C, alpha",11,,response to reactive oxygen species,,,ISO,RGD:3395 ,J:155856 
+MGI:97598,Prkcd,"protein kinase C, delta",14,,cellular response to hydrogen peroxide,,,ISO,Q05655 ,J:164563 
+MGI:97598,Prkcd,"protein kinase C, delta",14,,cellular response to hydroperoxide,,,ISO,Q05655 ,J:164563 
+MGI:97598,Prkcd,"protein kinase C, delta",14,,cellular response to oxidative stress,,,ISO,RGD:67383 ,J:155856 
+MGI:97598,Prkcd,"protein kinase C, delta",14,,response to oxidative stress,,,ISO,RGD:67383 ,J:155856 
+MGI:99879,Prkd1,protein kinase D1,12,,cellular response to hydroperoxide,,,ISO,Q15139 ,J:164563 
+MGI:99879,Prkd1,protein kinase D1,12,,cellular response to oxidative stress,,,ISO,Q15139 ,J:164563 
+MGI:1355296,Prkn,parkin RBR E3 ubiquitin protein ligase,17,,negative regulation of oxidative stress-induced neuron death,,,ISO,RGD:61797 ,J:155856 
+MGI:1355296,Prkn,parkin RBR E3 ubiquitin protein ligase,17,,negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway,"happens in primary neuron,happens in brain",,IMP,,J:204747 
+MGI:1355296,Prkn,parkin RBR E3 ubiquitin protein ligase,17,,negative regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway,,,ISO,O60260 ,J:164563 
+MGI:1355296,Prkn,parkin RBR E3 ubiquitin protein ligase,17,,regulation of cellular response to oxidative stress,,,IBA,PTN000188399 ,J:265628 
+MGI:1355296,Prkn,parkin RBR E3 ubiquitin protein ligase,17,,regulation of cellular response to oxidative stress,,,ISO,O60260 ,J:164563 
+MGI:1344375,Prkra,"protein kinase, interferon inducible double stranded RNA dependent activator",2,,cellular response to oxidative stress,,,IDA,,J:55431 
+MGI:97769,Prnp,prion protein,2,,response to oxidative stress,,,IDA,,J:82408 
+MGI:1919696,Prr5l,proline rich 5 like,2,,cellular response to oxidative stress,,,ISO,Q6MZQ0 ,J:164563 
+MGI:97783,Psap,prosaposin,10,,negative regulation of hydrogen peroxide-induced cell death,,,IDA,,J:213894 
+MGI:1202717,Psen1,presenilin 1,12,,response to oxidative stress,,,IGI,MGI:88059 ,J:106153 
+MGI:1202717,Psen1,presenilin 1,12,,response to oxidative stress,,,IMP,MGI:1930937 ,J:54086 
+MGI:2142116,Psip1,PC4 and SFRS1 interacting protein 1,4,,response to oxidative stress,,,IDA,,J:175119 
+MGI:1194513,Psmb5,"proteasome (prosome, macropain) subunit, beta type 5",14,,response to oxidative stress,,,IDA,,J:91425 
+MGI:97797,Ptgs1,prostaglandin-endoperoxide synthase 1,2,,response to oxidative stress,,,IEA,IPR010255 ,J:72247 
+MGI:97798,Ptgs2,prostaglandin-endoperoxide synthase 2,1,,response to oxidative stress,,,IEA,IPR010255 ,J:72247 
+MGI:104908,Ptk2b,PTK2 protein tyrosine kinase 2 beta,14,,response to hydrogen peroxide,,,ISO,RGD:628758 ,J:155856 
+MGI:103310,Ptprk,"protein tyrosine phosphatase, receptor type, K",10,,cellular response to reactive oxygen species,,,ISO,Q15262 ,J:164563 
+MGI:102765,Ptprn,"protein tyrosine phosphatase, receptor type, N",1,,response to reactive oxygen species,,,ISO,Q16849 ,J:164563 
+MGI:1916925,Pxdn,peroxidasin,12,,response to oxidative stress,,,IEA,IPR010255 ,J:72247 
+MGI:2384795,Pycr1,pyrroline-5-carboxylate reductase 1,11,,cellular response to oxidative stress,,,ISO,P32322 ,J:164563 
+MGI:2384795,Pycr1,pyrroline-5-carboxylate reductase 1,11,,negative regulation of hydrogen peroxide-induced cell death,,,ISO,P32322 ,J:164563 
+MGI:1277956,Pycr2,"pyrroline-5-carboxylate reductase family, member 2",1,,cellular response to oxidative stress,,,ISO,Q96C36 ,J:164563 
+MGI:2676395,Pyroxd1,pyridine nucleotide-disulphide oxidoreductase domain 1,6,,cellular response to oxidative stress,,,ISO,Q8WU10 ,J:164563 
+MGI:101849,Rack1,receptor for activated C kinase 1,11,,negative regulation of hydrogen peroxide-induced neuron death,happens in neuron of cerebral cortex,,IGI,Q99497 ,J:211328 
+MGI:101849,Rack1,receptor for activated C kinase 1,11,,negative regulation of hydrogen peroxide-induced neuron death,,,ISO,P63244 ,J:164563 
+MGI:101949,Rad52,"RAD52 homolog, DNA repair protein",6,,cellular response to oxidative stress,,,IDA,,J:151534 
+MGI:101949,Rad52,"RAD52 homolog, DNA repair protein",6,,cellular response to oxidative stress,,,ISO,P43351 ,J:151534 
+MGI:108466,Ralbp1,ralA binding protein 1,17,,positive regulation of oxidative stress-induced neuron intrinsic apoptotic signaling pathway,,,ISO,RGD:621134 ,J:155856 
+MGI:2447622,Rbm11,RNA binding motif protein 11,16,,cellular response to oxidative stress,,,ISO,P57052 ,J:197742 
+MGI:1334446,Rbpms,RNA binding protein gene with multiple splicing,8,,response to oxidative stress,,,ISO,Q93062 ,J:164563 
+MGI:1890564,Rcan1,regulator of calcineurin 1,16,,response to oxidative stress,happens in skeletal muscle tissue,,IGI,MGI:1858219 ,J:109586 
+MGI:1858219,Rcan2,regulator of calcineurin 2,17,,response to oxidative stress,happens in skeletal muscle tissue,,IGI,MGI:1890564 ,J:109586 
+MGI:97478,Reg3b,regenerating islet-derived 3 beta,6,,negative regulation of hydrogen peroxide-induced neuron death,,,ISO,RGD:3254 ,J:155856 
+MGI:103290,Rela,v-rel reticuloendotheliosis viral oncogene homolog A (avian),19,,cellular response to hydrogen peroxide,,,ISO,Q04206 ,J:164563 
+MGI:104897,Rest,RE1-silencing transcription factor,5,,negative regulation of oxidative stress-induced neuron death,,,ISO,Q13127 ,J:164563 
+MGI:104897,Rest,RE1-silencing transcription factor,5,,positive regulation of oxidative stress-induced neuron death,,,ISO,RGD:621069 ,J:155856 
+MGI:104897,Rest,RE1-silencing transcription factor,5,,regulation of oxidative stress-induced neuron death,,,ISO,RGD:621069 ,J:155856 
+MGI:108024,Rgn,regucalcin,X,,positive regulation of superoxide dismutase activity,,,ISO,RGD:3560 ,J:155856 
+MGI:1859709,Rgs14,regulator of G-protein signaling 14,13,,response to oxidative stress,,,ISO,RGD:620003 ,J:155856 
+MGI:107949,Rhob,ras homolog family member B,12,,cellular response to hydrogen peroxide,,,ISO,P62745 ,J:164563 
+MGI:108212,Ripk1,receptor (TNFRSF)-interacting serine-threonine kinase 1,13,,cellular response to hydrogen peroxide,"happens in cardiac muscle cell,is a part of cellular response to hydrogen peroxide",,IMP,,J:259866 
+MGI:108212,Ripk1,receptor (TNFRSF)-interacting serine-threonine kinase 1,13,,positive regulation of hydrogen peroxide-induced cell death,,,ISO,Q13546 ,J:164563 
+MGI:2154952,Ripk3,receptor-interacting serine-threonine kinase 3,14,,cellular response to hydrogen peroxide,"happens in cardiac muscle cell,is a part of cellular response to hydrogen peroxide",,IMP,,J:259866 
+MGI:1337096,Rnf7,ring finger protein 7,9,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,IDA,,J:53898 
+MGI:106611,Rnf112,ring finger protein 112,11,,cell death in response to hydrogen peroxide,,,IMP,,J:261054 
+MGI:106611,Rnf112,ring finger protein 112,11,,cell death in response to oxidative stress,,,IMP,,J:261059 
+MGI:106611,Rnf112,ring finger protein 112,11,,response to hydroperoxide,,,IDA,,J:261059 
+MGI:1915281,Rnf146,ring finger protein 146,10,,negative regulation of hydrogen peroxide-induced cell death,,,ISO,RGD:1306482 ,J:155856 
+MGI:1914317,Romo1,reactive oxygen species modulator 1,2,,cellular response to reactive oxygen species,,,ISO,P60602 ,J:164563 
+MGI:1350917,Rps3,ribosomal protein S3,7,,cellular response to hydrogen peroxide,,,ISO,P23396 ,J:164563 
+MGI:1350917,Rps3,ribosomal protein S3,7,,cellular response to reactive oxygen species,,,ISO,P23396 ,J:164563 
+MGI:2155865,Rrm2b,ribonucleotide reductase M2 B (TP53 inducible),15,,response to oxidative stress,,,IMP,MGI:2672883 ,J:84841 
+MGI:1913771,Rwdd1,RWD domain containing 1,10,,cellular response to oxidative stress,,,IDA,,J:240274 
+MGI:1355310,Scly,selenocysteine lyase,1,,negative regulation of cellular response to oxidative stress,happens in liver,,IMP,MGI:4362224 ,J:189255 
+MGI:1931466,Selenok,selenoprotein K,14,,response to oxidative stress,,,ISO,Q9Y6D0 ,J:164563 
+MGI:2151208,Selenon,selenoprotein N,4,,cellular response to oxidative stress,,,IGI,MGI:1354385 MGI:88110 ,J:219362 
+MGI:2151208,Selenon,selenoprotein N,4,,cellular response to oxidative stress,,,IMP,,J:197753 
+MGI:2151208,Selenon,selenoprotein N,4,,positive regulation of response to oxidative stress,,,ISO,Q9NZV5 ,J:164563 
+MGI:95994,Selenos,selenoprotein S,7,,cellular response to oxidative stress,,,ISO,Q9BQE4 ,J:164563 
+MGI:2155278,Sesn1,sestrin 1,10,,regulation of response to reactive oxygen species,,,IEA,IPR006730 ,J:72247 
+MGI:2651874,Sesn2,sestrin 2,4,,cellular response to oxidative stress,,,IMP,,J:195093 
+MGI:2651874,Sesn2,sestrin 2,4,,positive regulation of transcription from RNA polymerase II promoter in response to oxidative stress,,,ISO,P58004 ,J:164563 
+MGI:2651874,Sesn2,sestrin 2,4,,regulation of response to reactive oxygen species,,,IEA,IPR006730 ,J:72247 
+MGI:1922997,Sesn3,sestrin 3,9,,regulation of response to reactive oxygen species,,,IEA,IPR006730 ,J:72247 
+MGI:2443480,Setx,senataxin,2,,cellular response to hydrogen peroxide,,,ISO,Q7Z333 ,J:164563 
+MGI:2443480,Setx,senataxin,2,,cellular response to oxidative stress,,,ISO,Q7Z333 ,J:164563 
+MGI:1918764,Sfpq,splicing factor proline/glutamine rich (polypyrimidine tract binding protein associated),4,,positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,ISO,P23246 ,J:164563 
+MGI:1195268,Sigmar1,sigma non-opioid intracellular receptor 1,4,,cell death in response to hydrogen peroxide,,,IMP,,J:261054 
+MGI:107157,Sin3a,"transcriptional regulator, SIN3A (yeast)",9,,regulation of transcription from RNA polymerase II promoter in response to oxidative stress,,,ISO,RGD:1311598 ,J:155856 
+MGI:108563,Sirpa,signal-regulatory protein alpha,2,,cellular response to hydrogen peroxide,,,ISO,RGD:3449 ,J:155856 
+MGI:2135607,Sirt1,sirtuin 1,10,,cellular response to hydrogen peroxide,,,ISO,Q96EB6 ,J:164563 
+MGI:2135607,Sirt1,sirtuin 1,10,,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,ISO,Q96EB6 ,J:164563 
+MGI:2135607,Sirt1,sirtuin 1,10,,response to hydrogen peroxide,,,ISO,Q96EB6 ,J:164563 
+MGI:2135607,Sirt1,sirtuin 1,10,,response to oxidative stress,,,ISO,Q96EB6 ,J:164563 
+MGI:1927664,Sirt2,sirtuin 2,7,,cellular response to oxidative stress,,,IDA,,J:210910 
+MGI:1927665,Sirt3,sirtuin 3,7,,positive regulation of superoxide dismutase activity,,,ISO,Q9NTG7 ,J:164563 
+MGI:105083,Slc1a1,"solute carrier family 1 (neuronal/epithelial high affinity glutamate transporter, system Xag), member 1",19,,neuron death in response to oxidative stress,happens in hippocampal formation,,IMP,,J:285023 
+MGI:109393,Slc4a1,"solute carrier family 4 (anion exchanger), member 1",11,,response to hydrogen peroxide,,,ISO,RGD:3710 ,J:155856 
+MGI:1347355,Slc7a11,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 11",3,,cellular response to oxidative stress,,,IMP,MGI:3608695 ,J:193772 
+MGI:1347355,Slc7a11,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 11",3,,negative regulation of oxidative stress-induced neuron death,,,IDA,,J:113249 
+MGI:1347355,Slc7a11,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 11",3,,negative regulation of oxidative stress-induced neuron death,,,IMP,MGI:1857061 ,J:113249 
+MGI:1347355,Slc7a11,"solute carrier family 7 (cationic amino acid transporter, y+ system), member 11",3,,regulation of cellular response to oxidative stress,,,IMP,MGI:1857061 ,J:100476 
+MGI:107956,Slc8a1,"solute carrier family 8 (sodium/calcium exchanger), member 1",17,,cellular response to reactive oxygen species,,,ISO,RGD:3717 ,J:155856 
+MGI:107956,Slc8a1,"solute carrier family 8 (sodium/calcium exchanger), member 1",17,,cellular response to reactive oxygen species,,,ISO,P32418 ,J:164563 
+MGI:1345279,Slc11a2,"solute carrier family 11 (proton-coupled divalent metal ion transporters), member 2",15,,cellular response to oxidative stress,,,ISO,P49281 ,J:164563 
+MGI:1917160,Slc25a24,"solute carrier family 25 (mitochondrial carrier, phosphate carrier), member 24",3,,cellular response to oxidative stress,,,ISO,Q6NUK1 ,J:164563 
+MGI:1927578,Smpd3,"sphingomyelin phosphodiesterase 3, neutral",8,,cellular response to hydrogen peroxide,,,IDA,,J:202378 
+MGI:1927578,Smpd3,"sphingomyelin phosphodiesterase 3, neutral",8,,cellular response to reactive oxygen species,,,IMP,,J:122383 
+MGI:1277151,Snca,"synuclein, alpha",6,,cellular response to oxidative stress,,,IMP,MGI:1888382 ,J:106226 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,positive regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,ISO,P00441 ,J:164563 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,removal of superoxide radicals,,,IBA,PTN000000113 ,J:265628 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,removal of superoxide radicals,,,IGI,MGI:95480 ,J:71134 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,removal of superoxide radicals,,,IMP,MGI:1857872 ,J:33472 J:56971 J:59502 J:71134 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,removal of superoxide radicals,,,IMP,MGI:1857873 ,J:109001 J:121616 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,removal of superoxide radicals,has the participant heart,,IMP,MGI:2387861 ,J:60470 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,removal of superoxide radicals,,,IMP,MGI:3526701 ,J:46672 J:51141 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,removal of superoxide radicals,,,ISO,RGD:3731 ,J:155856 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,removal of superoxide radicals,,,TAS,,J:72446 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,response to hydrogen peroxide,has the participant lens,,IMP,MGI:1857873 ,J:115465 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,response to oxidative stress,,,IDA,,J:79147 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,response to oxidative stress,,,IMP,MGI:1857873 ,J:118550 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,response to oxidative stress,,,IMP,MGI:2680903 ,J:108756 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,response to oxidative stress,,,ISO,RGD:3731 ,J:155856 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,response to reactive oxygen species,,,IMP,MGI:1857873 ,J:118550 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,response to superoxide,,,IMP,MGI:2680903 ,J:104300 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,response to superoxide,,,IMP,MGI:3526701 ,J:46672 J:51141 
+MGI:98351,Sod1,"superoxide dismutase 1, soluble",16,,response to superoxide,,,ISO,P00441 ,J:164563 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,age-dependent response to oxidative stress,,,IMP,MGI:1857344 ,J:67874 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,age-dependent response to reactive oxygen species,,,ISO,P04179 ,J:164563 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,IMP,MGI:1857480 ,J:115465 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,ISO,P04179 ,J:164563 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,removal of superoxide radicals,,,IBA,A0A1D8PQH5 MGI:98352 P04179 P09233 P9WGE7 PTN000150074 RGD:3732 S000001050 SPAC1486.01 ,J:265628 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,removal of superoxide radicals,,,IMP,MGI:1857129 MGI:1857480 ,J:128050 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,removal of superoxide radicals,,,ISO,RGD:3732 ,J:155856 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,removal of superoxide radicals,,,ISO,P04179 ,J:164563 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,response to hydrogen peroxide,has the participant lens epithelium,,IMP,MGI:1857480 ,J:115465 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,response to oxidative stress,,,IGI,MGI:107207 ,J:152626 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,response to oxidative stress,,,IGI,MGI:109169 ,J:121138 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,response to oxidative stress,,,IGI,MGI:104887 MGI:98352 ,J:90710 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,response to oxidative stress,,,IMP,MGI:1857344 ,J:90710 J:152626 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,response to reactive oxygen species,,,IMP,,J:102322 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,response to reactive oxygen species,,,IMP,MGI:1857344 ,J:45913 J:52592 J:93763 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,response to reactive oxygen species,"happens in skeletal musculature,happens in skeletal muscle myoblast",,IMP,MGI:1857344 ,J:116698 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,response to superoxide,,,IMP,MGI:1857344 ,J:67568 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,response to superoxide,,,IMP,MGI:1857480 ,J:115465 
+MGI:98352,Sod2,"superoxide dismutase 2, mitochondrial",17,,response to superoxide,,,ISO,P04179 ,J:164563 
+MGI:103181,Sod3,"superoxide dismutase 3, extracellular",5,,removal of superoxide radicals,,,IBA,PTN000000113 ,J:265628 
+MGI:98372,Sp1,trans-acting transcription factor 1,15,,response to hydroperoxide,,,IDA,,J:261059 
+MGI:1316649,Sphk1,sphingosine kinase 1,11,,cellular response to hydrogen peroxide,,,IDA,,J:202378 
+MGI:98397,Src,Rous sarcoma oncogene,2,,cellular response to hydrogen peroxide,,,IMP,,J:202378 
+MGI:98397,Src,Rous sarcoma oncogene,2,,cellular response to reactive oxygen species,,,IDA,,J:207686 
+MGI:104971,Srxn1,sulfiredoxin 1 homolog (S. cerevisiae),2,,cellular response to oxidative stress,,,IBA,PTN000482398 ,J:265628 
+MGI:104971,Srxn1,sulfiredoxin 1 homolog (S. cerevisiae),2,,response to oxidative stress,,,IDA,,J:95202 
+MGI:104971,Srxn1,sulfiredoxin 1 homolog (S. cerevisiae),2,,response to oxidative stress,,,ISO,Q9BYN0 ,J:164563 
+MGI:103034,Stat6,signal transducer and activator of transcription 6,10,,cellular response to hydrogen peroxide,,,ISO,RGD:1309063 ,J:155856 
+MGI:1316731,Stc2,stanniocalcin 2,11,,response to oxidative stress,has the participant fibroblast,,IMP,MGI:5285561 ,J:175075 
+MGI:2385007,Stk24,serine/threonine kinase 24,14,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,ISO,Q9Y6E0 ,J:164563 
+MGI:2385007,Stk24,serine/threonine kinase 24,14,,response to hydrogen peroxide,,,ISO,Q9Y6E0 ,J:164563 
+MGI:1891699,Stk25,serine/threonine kinase 25 (yeast),1,,intrinsic apoptotic signaling pathway in response to hydrogen peroxide,,,ISO,O00506 ,J:164563 
+MGI:1891699,Stk25,serine/threonine kinase 25 (yeast),1,,response to hydrogen peroxide,,,ISO,O00506 ,J:164563 
+MGI:1917665,Stk26,serine/threonine kinase 26,X,,regulation of hydrogen peroxide-induced cell death,,,ISO,Q9P289 ,J:164563 
+MGI:1917665,Stk26,serine/threonine kinase 26,X,,response to hydrogen peroxide,,,ISO,Q9P289 ,J:164563 
+MGI:2684909,Stox1,storkhead box 1,10,,regulation of response to oxidative stress,,,ISO,Q6ZVD7 ,J:164563 
+MGI:108059,Stx2,syntaxin 2,5,,cellular response to oxidative stress,,,ISO,P32856 ,J:164563 
+MGI:893577,Stx4a,syntaxin 4A (placental),7,,cellular response to oxidative stress,,,ISO,Q12846 ,J:164563 
+MGI:3033336,Szt2,SZT2 subunit of KICSTOR complex,4,,regulation of superoxide dismutase activity,,,IMP,,J:205670 
+MGI:98475,Tacr1,tachykinin receptor 1,6,,response to ozone,,,ISO,RGD:3811 ,J:155856 
+MGI:98487,Tat,tyrosine aminotransferase,8,,response to oxidative stress,,,ISO,RGD:3820 ,J:155856 
+MGI:2443456,Tbc1d24,"TBC1 domain family, member 24",17,,negative regulation of oxidative stress-induced neuron death,,,IDA,,J:230923 
+MGI:2443456,Tbc1d24,"TBC1 domain family, member 24",17,,neuron death in response to oxidative stress,,,IMP,,J:271632 
+MGI:2443456,Tbc1d24,"TBC1 domain family, member 24",17,,neuron death in response to oxidative stress,happens in hippocampal neuron,,IMP,MGI:5692831 ,J:271632 
+MGI:2443456,Tbc1d24,"TBC1 domain family, member 24",17,,neuron death in response to oxidative stress,happens in neuron of cerebral cortex,,IMP,MGI:5692831 ,J:271632 
+MGI:2443456,Tbc1d24,"TBC1 domain family, member 24",17,,neuron death in response to oxidative stress,,,ISO,Q9ULP9 ,J:271632 
+MGI:98737,Thbs1,thrombospondin 1,2,,cellular response to nitric oxide,,,IMP,MGI:2154534 ,J:101420 
+MGI:2686178,Tldc2,TBC/LysM associated domain containing 2,2,,negative regulation of oxidative stress-induced neuron death,,,IBA,PTN001156357 ,J:265628 
+MGI:2686178,Tldc2,TBC/LysM associated domain containing 2,2,,negative regulation of oxidative stress-induced neuron death,,,IDA,,J:230923 
+MGI:2686178,Tldc2,TBC/LysM associated domain containing 2,2,,response to oxidative stress,,,IBA,PTN001156357 ,J:265628 
+MGI:96824,Tlr4,toll-like receptor 4,4,,positive regulation of oxidative stress-induced neuron death,"regulates a function/process that happens in neuron,happens in microglial cell",,IGI,P05067 ,J:158401 
+MGI:96824,Tlr4,toll-like receptor 4,4,,response to oxidative stress,,,ISO,RGD:3870 ,J:155856 
+MGI:1341296,Tlr6,toll-like receptor 6,5,,positive regulation of oxidative stress-induced neuron death,"regulates a function/process that happens in neuron,happens in microglial cell",,IGI,P05067 ,J:158401 
+MGI:2384577,Tmem161a,transmembrane protein 161A,8,,cellular response to oxidative stress,,,ISO,Q9NX61 ,J:164563 
+MGI:104798,Tnf,tumor necrosis factor,17,,positive regulation of oxidative stress-induced neuron death,,,ISO,RGD:3876 ,J:155856 
+MGI:104798,Tnf,tumor necrosis factor,17,,positive regulation of superoxide dismutase activity,,,ISO,P01375 ,J:164563 
+MGI:1196377,Tnfaip3,"tumor necrosis factor, alpha-induced protein 3",10,,cellular response to hydrogen peroxide,,,IMP,,J:196955 
+MGI:98791,Top2b,topoisomerase (DNA) II beta,14,,cellular response to hydrogen peroxide,,,ISO,RGD:1586156 ,J:155856 
+MGI:1353568,Tor1a,"torsin family 1, member A (torsin A)",2,,response to oxidative stress,,,ISO,RGD:628863 ,J:155856 
+MGI:98813,Tpo,thyroid peroxidase,12,,response to oxidative stress,,,IEA,IPR010255 ,J:72247 
+MGI:101835,Traf2,TNF receptor-associated factor 2,2,,cellular response to nitric oxide,happens in fibroblast,,IMP,,J:146389 
+MGI:1915265,Trap1,TNF receptor-associated protein 1,16,,negative regulation of intrinsic apoptotic signaling pathway in response to hydrogen peroxide,,,ISO,RGD:1359733 ,J:155856 
+MGI:1328317,Trex1,three prime repair exonuclease 1,9,,cellular response to oxidative stress,,,IMP,MGI:3052754 ,J:208222 
+MGI:1328317,Trex1,three prime repair exonuclease 1,9,,cellular response to reactive oxygen species,,,IMP,MGI:3052754 ,J:208222 
+MGI:98834,Trp53,transformation related protein 53,11,,cellular response to reactive oxygen species,,,ISO,RGD:3889 ,J:155856 
+MGI:98834,Trp53,transformation related protein 53,11,,oxidative stress-induced premature senescence,,,ISO,P04637 ,J:164563 
+MGI:98834,Trp53,transformation related protein 53,11,,regulation of hydrogen peroxide-induced cell death,,,ISO,RGD:3889 ,J:155856 
+MGI:98834,Trp53,transformation related protein 53,11,,response to oxidative stress,has the participant fibroblast,,IGI,MGI:2145814 ,J:186254 
+MGI:98834,Trp53,transformation related protein 53,11,,response to oxidative stress,,,IMP,,J:124168 
+MGI:1926609,Trp53inp1,transformation related protein 53 inducible nuclear protein 1,4,,cellular response to hydroperoxide,,,IDA,,J:72788 
+MGI:3522699,Trpa1,"transient receptor potential cation channel, subfamily A, member 1",1,,response to hydrogen peroxide,,,IMP,MGI:3692770 ,J:135206 
+MGI:109523,Trpc6,"transient receptor potential cation channel, subfamily C, member 6",9,,cellular response to hydrogen peroxide,,,ISO,RGD:619788 ,J:155856 
+MGI:1351901,Trpm2,"transient receptor potential cation channel, subfamily M, member 2",10,,cellular response to hydrogen peroxide,,,ISO,O94759 ,J:164563 
+MGI:1351901,Trpm2,"transient receptor potential cation channel, subfamily M, member 2",10,,positive regulation of oxidative stress-induced neuron death,,,ISO,RGD:1311889 ,J:155856 
+MGI:1351901,Trpm2,"transient receptor potential cation channel, subfamily M, member 2",10,,response to hydroperoxide,,,IDA,,J:137259 
+MGI:1351901,Trpm2,"transient receptor potential cation channel, subfamily M, member 2",10,,response to oxidative stress,,,IEA,IPR029594 ,J:72247 
+MGI:1929183,Tsc1,TSC complex subunit 1,2,,negative regulation of oxidative stress-induced neuron death,,,ISO,RGD:620124 ,J:155856 
+MGI:1354168,Ttpa,tocopherol (alpha) transfer protein,4,,age-dependent response to oxidative stress involved in chronological cell aging,"uses Pla2g3,happens in astrocyte,happens in telencephalon",,IMP,MGI:2386172 ,J:243822 
+MGI:98874,Txn1,thioredoxin 1,4,,negative regulation of hydrogen peroxide-induced cell death,,,ISO,P10599 ,J:164563 
+MGI:98874,Txn1,thioredoxin 1,4,,response to nitric oxide,,,ISO,P10599 ,J:164563 
+MGI:2389312,Txndc2,thioredoxin domain containing 2 (spermatozoa),17,,cellular response to reactive oxygen species,happens in sperm,,IGI,MGI:1920662 ,J:205172 
+MGI:1889549,Txnip,thioredoxin interacting protein,3,,response to oxidative stress,,,IDA,,J:62834 
+MGI:1354175,Txnrd1,thioredoxin reductase 1,10,,response to oxidative stress,,,ISO,RGD:61959 ,J:155856 
+MGI:1347023,Txnrd2,thioredoxin reductase 2,16,,response to oxygen radical,,,TAS,,J:57020 
+MGI:1919815,Uaca,uveal autoantigen with coiled-coil domains and ankyrin repeats,9,,intrinsic apoptotic signaling pathway in response to oxidative stress,regulates a function/process that happens in fibroblast,,IMP,MGI:3043446 ,J:93333 
+MGI:1860276,Ubqln1,ubiquilin 1,13,,regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,ISO,Q9UMX0 ,J:164563 
+MGI:1276123,Ucn,urocortin,5,,response to oxidative stress,,,ISO,RGD:3929 ,J:155856 
+MGI:98894,Ucp1,"uncoupling protein 1 (mitochondrial, proton carrier)",8,,cellular response to reactive oxygen species,,,IMP,,J:235306 
+MGI:109354,Ucp2,"uncoupling protein 2 (mitochondrial, proton carrier)",7,,response to superoxide,,,ISO,RGD:3932 ,J:155856 
+MGI:1099787,Ucp3,"uncoupling protein 3 (mitochondrial, proton carrier)",7,,response to superoxide,,,IMP,MGI:2183204 ,J:78047 
+MGI:1099787,Ucp3,"uncoupling protein 3 (mitochondrial, proton carrier)",7,,response to superoxide,,,ISO,RGD:3933 ,J:155856 
+MGI:1916915,Upk3bl,uroplakin 3B-like,5,,response to oxidative stress,,,IEA,IPR010255 ,J:72247 
+MGI:1916818,Vkorc1l1,"vitamin K epoxide reductase complex, subunit 1-like 1",5,,cellular response to oxidative stress,,,ISO,Q8N0U8 ,J:164563 
+MGI:108395,Vnn1,vanin 1,10,,negative regulation of oxidative stress-induced intrinsic apoptotic signaling pathway,,,IMP,,J:92268 
+MGI:1917172,Vrk2,vaccinia related kinase 2,11,,cellular response to oxidative stress,,,ISO,Q86Y07 ,J:164563 
+MGI:98953,Wnt1,"wingless-type MMTV integration site family, member 1",15,,negative regulation of oxidative stress-induced neuron death,"is caused by the action of astrocyte,regulates a function/process that happens in midbrain dopaminergic neuron",,IMP,,J:231273 
+MGI:2136018,Wnt16,"wingless-type MMTV integration site family, member 16",6,,oxidative stress-induced premature senescence,,,ISO,Q9UBV4 ,J:164563 
+MGI:109635,Wrn,Werner syndrome RecQ like helicase,8,,response to oxidative stress,,,ISO,Q14191 ,J:164563 
+MGI:98970,Xbp1,X-box binding protein 1,11,,cellular response to oxidative stress,,,ISO,P17861 ,J:164563 
+MGI:99135,Xpa,"xeroderma pigmentosum, complementation group A",4,,response to oxidative stress,,,IMP,MGI:1857939 ,J:76608 J:81189 
+MGI:99137,Xrcc1,X-ray repair complementing defective repair in Chinese hamster cells 1,7,,response to hydroperoxide,,,ISO,P18887 ,J:164563 
+MGI:2385891,Zc3h12a,zinc finger CCCH type containing 12A,4,,cellular response to oxidative stress,,,IDA,,J:178149 
+MGI:1890393,Zfp277,zinc finger protein 277,12,,cellular response to hydrogen peroxide,,,IMP,MGI:5496522 ,J:198334 
+MGI:1916242,Zfp580,zinc finger protein 580,7,,cellular response to hydrogen peroxide,,,ISO,Q9UK33 ,J:164563 
+MGI:1289282,Zfp622,zinc finger protein 622,15,,intrinsic apoptotic signaling pathway in response to oxidative stress,,,ISO,Q969S3 ,J:164563 
+Others,Nnt,NA,NA,NA,NA,NA,NA,NA,NA,NA

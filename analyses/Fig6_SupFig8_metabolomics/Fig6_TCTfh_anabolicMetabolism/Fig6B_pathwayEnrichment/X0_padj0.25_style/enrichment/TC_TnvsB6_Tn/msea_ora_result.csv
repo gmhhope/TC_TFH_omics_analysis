@@ -1,0 +1,14 @@
+"","total","expected","hits","Raw p","Holm p","FDR"
+"Ketone Body Metabolism",13,0.0508,1,0.0499,1,1
+"Butyrate Metabolism",19,0.0742,1,0.0723,1,1
+"Mitochondrial Electron Transport Chain",19,0.0742,1,0.0723,1,1
+"Carnitine Synthesis",22,0.0859,1,0.0833,1,1
+"Oxidation of Branched Chain Fatty Acids",26,0.102,1,0.0979,1,1
+"Phytanic Acid Peroxisomal Oxidation",26,0.102,1,0.0979,1,1
+"Citric Acid Cycle",32,0.125,1,0.119,1,1
+"Aspartate Metabolism",35,0.137,1,0.13,1,1
+"Glutamate Metabolism",49,0.191,1,0.178,1,1
+"Arginine and Proline Metabolism",53,0.207,1,0.192,1,1
+"Warburg Effect",58,0.227,1,0.208,1,1
+"Valine, Leucine and Isoleucine Degradation",60,0.234,1,0.215,1,1
+"Purine Metabolism",74,0.289,1,0.26,1,1

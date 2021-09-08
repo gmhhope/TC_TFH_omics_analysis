@@ -1,0 +1,247 @@
+{
+ "nodes": [
+ {
+ "id": "Beta-Alanine Metabolism",
+"label": "Beta-Alanine Metabolism",
+"size": 6.546099,
+"color": "#FF0000FF",
+"x": 28.52566,
+"y": 16.45853 
+},
+{
+ "id": "Aspartate Metabolism",
+"label": "Aspartate Metabolism",
+"size": 6.442341,
+"color": "#FF1100FF",
+"x":  30.5236,
+"y":  13.1576 
+},
+{
+ "id": "Purine Metabolism",
+"label": "Purine Metabolism",
+"size": 5.439024,
+"color": "#FF2200FF",
+"x": 30.18361,
+"y": 15.47297 
+},
+{
+ "id": "Malate-Aspartate Shuttle",
+"label": "Malate-Aspartate Shuttle",
+"size": 9.024096,
+"color": "#FF3300FF",
+"x": 32.11636,
+"y": 13.57573 
+},
+{
+ "id": "Phosphatidylethanolamine Biosynthesis",
+"label": "Phosphatidylethanolamine Biosynthesis",
+"size": 8.025126,
+"color": "#FF4400FF",
+"x":  34.1683,
+"y": 13.51179 
+},
+{
+ "id": "Thyroid hormone synthesis",
+"label": "Thyroid hormone synthesis",
+"size":  7.62963,
+"color": "#FF5500FF",
+"x":  32.5902,
+"y": 19.10932 
+},
+{
+ "id": "Phosphatidylcholine Biosynthesis",
+"label": "Phosphatidylcholine Biosynthesis",
+"size": 7.310345,
+"color": "#FF6600FF",
+"x":  33.6905,
+"y": 12.79847 
+},
+{
+ "id": "Phosphatidylinositol Phosphate Metabolism",
+"label": "Phosphatidylinositol Phosphate Metabolism",
+"size": 6.546099,
+"color": "#FF7700FF",
+"x": 31.10063,
+"y": 19.10558 
+},
+{
+ "id": "Inositol Phosphate Metabolism",
+"label": "Inositol Phosphate Metabolism",
+"size": 5.314815,
+"color": "#FF8800FF",
+"x": 32.44303,
+"y": 16.96427 
+},
+{
+ "id": "Plasmalogen Synthesis",
+"label": "Plasmalogen Synthesis",
+"size": 5.314815,
+"color": "#FF9900FF",
+"x": 34.72474,
+"y": 17.41269 
+},
+{
+ "id": "Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids",
+"label": "Mitochondrial Beta-Oxidation of Long Chain Saturated Fatty Acids",
+"size": 5.150538,
+"color": "#FFAA00FF",
+"x":  35.1717,
+"y": 14.66854 
+},
+{
+ "id": "Urea Cycle",
+"label": "Urea Cycle",
+"size": 5.079002,
+"color": "#FFBB00FF",
+"x": 30.95227,
+"y":  13.6976 
+},
+{
+ "id": "Lysine Degradation",
+"label": "Lysine Degradation",
+"size": 5.008032,
+"color": "#FFCC00FF",
+"x": 28.97676,
+"y": 17.19198 
+},
+{
+ "id": "Ammonia Recycling",
+"label": "Ammonia Recycling",
+"size": 4.883239,
+"color": "#FFDD00FF",
+"x": 29.74513,
+"y": 13.84359 
+},
+{
+ "id": "Inositol Metabolism",
+"label": "Inositol Metabolism",
+"size": 4.824818,
+"color": "#FFEE00FF",
+"x":  31.6263,
+"y": 17.29078 
+},
+{
+ "id": "Retinol Metabolism",
+"label": "Retinol Metabolism",
+"size": 4.628664,
+"color": "#FFFF00FF",
+"x":   33.887,
+"y": 18.48264 
+},
+{
+ "id": "Galactose Metabolism",
+"label": "Galactose Metabolism",
+"size": 4.584786,
+"color": "#FFFF19FF",
+"x": 33.64552,
+"y":  15.6047 
+},
+{
+ "id": "Glutamate Metabolism",
+"label": "Glutamate Metabolism",
+"size": 4.230012,
+"color": "#FFFF4DFF",
+"x": 30.28823,
+"y": 14.30609 
+},
+{
+ "id": "Arginine and Proline Metabolism",
+"label": "Arginine and Proline Metabolism",
+"size": 4.136364,
+"color": "#FFFF80FF",
+"x": 29.89537,
+"y": 13.22551 
+},
+{
+ "id": "Pyrimidine Metabolism",
+"label": "Pyrimidine Metabolism",
+"size":  4.02145,
+"color": "#FFFFB3FF",
+"x": 29.83715,
+"y": 18.43139 
+},
+{
+ "id": "Tyrosine Metabolism",
+"label": "Tyrosine Metabolism",
+"size": 3.833333,
+"color": "#FFFFE6FF",
+"x":  35.3188,
+"y": 16.16332 
+} 
+],
+"edges": [ {
+ "id": "1",
+"source": "Phosphatidylethanolamine Biosynthesis",
+"target": "Phosphatidylcholine Biosynthesis" 
+},
+{
+ "id": "2",
+"source": "Aspartate Metabolism",
+"target": "Urea Cycle" 
+},
+{
+ "id": "3",
+"source": "Malate-Aspartate Shuttle",
+"target": "Urea Cycle" 
+},
+{
+ "id": "4",
+"source": "Beta-Alanine Metabolism",
+"target": "Lysine Degradation" 
+},
+{
+ "id": "5",
+"source": "Aspartate Metabolism",
+"target": "Ammonia Recycling" 
+},
+{
+ "id": "6",
+"source": "Urea Cycle",
+"target": "Ammonia Recycling" 
+},
+{
+ "id": "7",
+"source": "Inositol Phosphate Metabolism",
+"target": "Inositol Metabolism" 
+},
+{
+ "id": "8",
+"source": "Aspartate Metabolism",
+"target": "Glutamate Metabolism" 
+},
+{
+ "id": "9",
+"source": "Purine Metabolism",
+"target": "Glutamate Metabolism" 
+},
+{
+ "id": "10",
+"source": "Urea Cycle",
+"target": "Glutamate Metabolism" 
+},
+{
+ "id": "11",
+"source": "Ammonia Recycling",
+"target": "Glutamate Metabolism" 
+},
+{
+ "id": "12",
+"source": "Aspartate Metabolism",
+"target": "Arginine and Proline Metabolism" 
+},
+{
+ "id": "13",
+"source": "Urea Cycle",
+"target": "Arginine and Proline Metabolism" 
+},
+{
+ "id": "14",
+"source": "Ammonia Recycling",
+"target": "Arginine and Proline Metabolism" 
+},
+{
+ "id": "15",
+"source": "Glutamate Metabolism",
+"target": "Arginine and Proline Metabolism" 
+} ] 
+}

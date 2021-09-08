@@ -1,0 +1,8 @@
+Group	SampleID
+B6	B6-1-Tn
+B6	B6-2-Tn
+B6	B6-3-Tn
+B6	B6-4-Tn
+TC	TC1-Tn
+TC	TC2-Tn
+TC	TC4-Tn

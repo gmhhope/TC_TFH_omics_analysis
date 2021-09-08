@@ -1,0 +1,2 @@
+# The input 
+- includes `../../../rawData2DESeq2/full_table/full_RNAseq_LRT_added.csv` and the gene list related to mitophagy, which is the first column of `REACTOME_MITOPHAGY_HT4R.csv`. And they generate the `REACTOME_MITOPHAGY_log2FC4heatmap.csv`, which is then used for plotting.

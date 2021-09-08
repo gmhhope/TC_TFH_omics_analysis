@@ -1,0 +1,15 @@
+SampleID	Genotype	CellType
+B6-1-Tfh	B6	Tfh
+B6-2-Tfh	B6	Tfh
+B6-3-Tfh	B6	Tfh
+B6-4-Tfh	B6	Tfh
+B6-1-Tn	B6	Tn
+B6-2-Tn	B6	Tn
+B6-3-Tn	B6	Tn
+B6-4-Tn	B6	Tn
+TC1-Tfh	TC	Tfh
+TC2-Tfh	TC	Tfh
+TC4-Tfh	TC	Tfh
+TC1-Tn	TC	Tn
+TC2-Tn	TC	Tn
+TC4-Tn	TC	Tn

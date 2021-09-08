@@ -1,0 +1,1 @@
+# Supplemental Figure 8. Metabolic phenotypes in in-vitro polarized Tfh compared to non-polarized activated T cells (Tact). 

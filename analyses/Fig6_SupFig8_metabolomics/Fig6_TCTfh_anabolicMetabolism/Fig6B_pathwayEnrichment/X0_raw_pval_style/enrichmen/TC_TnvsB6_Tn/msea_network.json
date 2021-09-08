@@ -1,0 +1,168 @@
+{
+ "nodes": [
+ {
+ "id": "Valine, Leucine and Isoleucine Degradation",
+"label": "Valine, Leucine and Isoleucine Degradation",
+"size": 7.264392,
+"color": "#FF0000FF",
+"x": 32.23183,
+"y":  28.2018 
+},
+{
+ "id": "Ketone Body Metabolism",
+"label": "Ketone Body Metabolism",
+"size": 12.80392,
+"color": "#FF1C00FF",
+"x": 28.16409,
+"y": 27.52514 
+},
+{
+ "id": "Butyrate Metabolism",
+"label": "Butyrate Metabolism",
+"size": 9.756757,
+"color": "#FF3900FF",
+"x": 28.15026,
+"y": 26.50187 
+},
+{
+ "id": "Mitochondrial Electron Transport Chain",
+"label": "Mitochondrial Electron Transport Chain",
+"size": 9.756757,
+"color": "#FF5500FF",
+"x": 30.27643,
+"y": 27.03687 
+},
+{
+ "id": "Carnitine Synthesis",
+"label": "Carnitine Synthesis",
+"size": 8.813953,
+"color": "#FF7100FF",
+"x": 30.33887,
+"y": 28.89606 
+},
+{
+ "id": "Oxidation of Branched Chain Fatty Acids",
+"label": "Oxidation of Branched Chain Fatty Acids",
+"size": 7.926108,
+"color": "#FF8E00FF",
+"x": 28.38337,
+"y":  24.5189 
+},
+{
+ "id": "Phytanic Acid Peroxisomal Oxidation",
+"label": "Phytanic Acid Peroxisomal Oxidation",
+"size": 7.926108,
+"color": "#FFAA00FF",
+"x":  28.8144,
+"y": 25.54598 
+},
+{
+ "id": "Citric Acid Cycle",
+"label": "Citric Acid Cycle",
+"size":        7,
+"color": "#FFC600FF",
+"x": 30.16395,
+"y": 25.81128 
+},
+{
+ "id": "Aspartate Metabolism",
+"label": "Aspartate Metabolism",
+"size": 6.663004,
+"color": "#FFE300FF",
+"x":  32.3864,
+"y": 24.70049 
+},
+{
+ "id": "Glutamate Metabolism",
+"label": "Glutamate Metabolism",
+"size": 5.610966,
+"color": "#FFFF00FF",
+"x": 31.44321,
+"y": 25.26187 
+},
+{
+ "id": "Arginine and Proline Metabolism",
+"label": "Arginine and Proline Metabolism",
+"size": 5.415459,
+"color": "#FFFF2AFF",
+"x":  31.7258,
+"y":  24.1209 
+},
+{
+ "id": "Warburg Effect",
+"label": "Warburg Effect",
+"size": 5.207506,
+"color": "#FFFF80FF",
+"x": 30.45268,
+"y": 24.82771 
+},
+{
+ "id": "Purine Metabolism",
+"label": "Purine Metabolism",
+"size": 4.730104,
+"color": "#FFFFD5FF",
+"x": 32.33575,
+"y": 26.17695 
+} 
+],
+"edges": [ {
+ "id": "1",
+"source": "Ketone Body Metabolism",
+"target": "Butyrate Metabolism" 
+},
+{
+ "id": "2",
+"source": "Butyrate Metabolism",
+"target": "Phytanic Acid Peroxisomal Oxidation" 
+},
+{
+ "id": "3",
+"source": "Oxidation of Branched Chain Fatty Acids",
+"target": "Phytanic Acid Peroxisomal Oxidation" 
+},
+{
+ "id": "4",
+"source": "Mitochondrial Electron Transport Chain",
+"target": "Citric Acid Cycle" 
+},
+{
+ "id": "5",
+"source": "Phytanic Acid Peroxisomal Oxidation",
+"target": "Citric Acid Cycle" 
+},
+{
+ "id": "6",
+"source": "Citric Acid Cycle",
+"target": "Glutamate Metabolism" 
+},
+{
+ "id": "7",
+"source": "Aspartate Metabolism",
+"target": "Glutamate Metabolism" 
+},
+{
+ "id": "8",
+"source": "Aspartate Metabolism",
+"target": "Arginine and Proline Metabolism" 
+},
+{
+ "id": "9",
+"source": "Glutamate Metabolism",
+"target": "Arginine and Proline Metabolism" 
+},
+{
+ "id": "10",
+"source": "Citric Acid Cycle",
+"target": "Warburg Effect" 
+},
+{
+ "id": "11",
+"source": "Glutamate Metabolism",
+"target": "Warburg Effect" 
+},
+{
+ "id": "12",
+"source": "Glutamate Metabolism",
+"target": "Purine Metabolism" 
+} ] 
+}
