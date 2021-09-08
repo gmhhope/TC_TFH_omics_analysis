@@ -5,11 +5,15 @@
 **/*.zip
 **/*.webloc
 **/history
+**/Rhistory.R
+**/trash
+
+!**/output/.gitkeep
+!**/output/README.md
 
 
 # For internal user
 **/README_PRIVATE.md
-
 
 # General
 .DS_Store
