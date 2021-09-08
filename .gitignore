@@ -1,9 +1,10 @@
 # Specific cases
-**/output
+**/output/*
 **/*.Rproj
 **/.Rproj.user
 **/*.zip
 **/*.webloc
+**/history
 
 
 # For internal user
