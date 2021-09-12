@@ -1,0 +1,1 @@
+# Supplemental Fig. 2. TC and B6 mice shared a majority of transcriptional projections from Tn to Tfh cells. 
