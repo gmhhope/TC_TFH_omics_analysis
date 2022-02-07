@@ -7,10 +7,14 @@
 **/history
 **/Rhistory.R
 **/trash
-Metabolight_submission
 
 !**/output/.gitkeep
 !**/output/README.md
+
+
+## certain items
+**/Test_on_DESeq2_using_two_model
+Metabolight_submission
 
 
 # For internal user
