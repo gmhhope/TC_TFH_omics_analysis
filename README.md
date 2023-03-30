@@ -7,6 +7,10 @@ Supplementary analysis scripts and supplementary tables relevant to Tfh studies 
 
 ## Graphical abstract
 ![graphical_abstract](https://github.com/gmhhope/TC_TFH_omics_analysis/blob/main/analyses/graphical_abstract/TC-TFH-drafted-cartoon-03222023.png)
+- Created with BioRender.com
+
+## Reference
+- iScience (to be published)
 
 ## How to download
 - `git clone <url>.git`
