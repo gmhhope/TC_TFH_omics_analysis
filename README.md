@@ -10,7 +10,7 @@ Supplementary analysis scripts and supplementary tables relevant to Tfh studies 
 - Created with BioRender.com
 
 ## Reference
-- iScience (to be published)
+- Gong, Minghao, Seung-Chul Choi, Yuk Pheel Park, Xueyang Zou, Ahmed S. Elshikha, Valerie A. Gerriets, Jeffrey C. Rathmell, Mansour Mohamazadeh, and Laurence Morel. “Transcriptional and Metabolic Programs Promote the Expansion of Follicular Helper T Cells in Lupus-Prone Mice.” IScience 26, no. 5 (May 2023): 106774. https://doi.org/10.1016/j.isci.2023.106774.
 
 ## How to download
 - `git clone <url>.git`
